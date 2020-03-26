@@ -1,0 +1,705 @@
+﻿2020.03.26 04:33:10.940	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 04:33:14.413	scan started [20.3.9.0]
+2020.03.26 04:33:14.526	header load time: 108 (19941/569974)
+2020.03.26 04:33:14.532	ObjectManager found, ingame flag: 1
+2020.03.26 04:33:14.563	CK#1 sanity check triggered
+2020.03.26 04:33:14.574	deduction - world max index: 2
+2020.03.26 04:33:14.574	deduction - scene max index: 9
+2020.03.26 04:33:14.583	deduction - me: 0, 2001797201, 288482 (valid), 6485
+2020.03.26 04:33:14.584	deduction - actor max index: 154, valid: True
+2020.03.26 04:33:14.584	deduction - acd max index: 504, valid: True
+2020.03.26 04:33:14.595	deduction - highest actor dict: *147,*2
+2020.03.26 04:33:14.595	deduction - CK#1: 2964421090
+2020.03.26 04:33:14.595	deduction - me pos: 1297.35:1112.71:0.10
+2020.03.26 04:33:14.595	deduction - CK#2: 4048623136
+2020.03.26 04:33:14.595	deduction - A scene#3(132238): different area (276212), 1200-1440, 720-960, CK3: 1552859240, CK4: 46302350
+2020.03.26 04:33:14.595	deduction - A scene#7(154775): different area (276212), 1200-1440, 1200-1440, CK3: 1399373830, CK4: 46302350
+2020.03.26 04:33:14.595	deduction - A scene#8(132258): different area (276212), 1200-1440, 960-1200, CK3: 1400160370, CK4: 46302350
+2020.03.26 04:33:14.595	deduction - A scene#9(132283): different area (276212), 960-1200, 960-1200, CK3: 1400356977, CK4: 46302350
+2020.03.26 04:33:14.595	deduction - B scene#3(132238): no overlap, 1200-1440, 720-960, CK3: 1552859240, CK4: 46302350
+2020.03.26 04:33:14.595	deduction - B scene#7(154775): no overlap, 1200-1440, 1200-1440, CK3: 1399373830, CK4: 46302350
+2020.03.26 04:33:14.597	deduction - B scene#8(132258): 69, 1200-1440, 960-1200, CK3: 1400160370, CK4: 46302350
+2020.03.26 04:33:14.598	deduction - B scene#9(132283): no overlap, 960-1200, 960-1200, CK3: 1400356977, CK4: 46302350
+2020.03.26 04:33:14.598	deduction - CK#3: 1400160370
+2020.03.26 04:33:14.598	deduction - CK#4: 46302350
+2020.03.26 04:33:14.598	scan finished in 72 ms
+2020.03.26 04:33:14.841	new run: Witch Doctor, Rift Level 01, Difficulty: t16
+2020.03.26 04:36:03.935	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 04:36:07.891	scan started [20.3.9.0]
+2020.03.26 04:36:08.029	header load time: 133 (19946/570667)
+2020.03.26 04:36:08.037	ObjectManager found, ingame flag: 1
+2020.03.26 04:36:08.071	CK#1 sanity check triggered
+2020.03.26 04:36:08.084	deduction - world max index: 2
+2020.03.26 04:36:08.084	deduction - scene max index: 9
+2020.03.26 04:36:08.094	deduction - me: 0, 2001797201, 288482 (valid), 6485
+2020.03.26 04:36:08.095	deduction - actor max index: 154, valid: True
+2020.03.26 04:36:08.095	deduction - acd max index: 504, valid: True
+2020.03.26 04:36:08.106	deduction - highest actor dict: *146,*2
+2020.03.26 04:36:08.106	deduction - CK#1: 2964421090
+2020.03.26 04:36:08.106	deduction - me pos: 1313.65:1087.83:0.10
+2020.03.26 04:36:08.106	deduction - CK#2: 4048623136
+2020.03.26 04:36:08.106	deduction - A scene#3(132238): different area (276212), 1200-1440, 720-960, CK3: 1552859240, CK4: 46302350
+2020.03.26 04:36:08.106	deduction - A scene#8(132258): different area (276212), 1200-1440, 960-1200, CK3: 1400160370, CK4: 46302350
+2020.03.26 04:36:08.106	deduction - A scene#9(132283): different area (276212), 960-1200, 960-1200, CK3: 1400356977, CK4: 46302350
+2020.03.26 04:36:08.106	deduction - B scene#3(132238): no overlap, 1200-1440, 720-960, CK3: 1552859240, CK4: 46302350
+2020.03.26 04:36:08.109	deduction - B scene#8(132258): 69, 1200-1440, 960-1200, CK3: 1400160370, CK4: 46302350
+2020.03.26 04:36:08.109	deduction - B scene#9(132283): no overlap, 960-1200, 960-1200, CK3: 1400356977, CK4: 46302350
+2020.03.26 04:36:08.109	deduction - CK#3: 1400160370
+2020.03.26 04:36:08.109	deduction - CK#4: 46302350
+2020.03.26 04:36:08.109	scan finished in 80 ms
+2020.03.26 04:36:08.415	new run: Witch Doctor, Rift Level 01, Difficulty: t16
+2020.03.26 04:38:13.802	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 04:38:17.557	scan started [20.3.9.0]
+2020.03.26 04:38:17.679	header load time: 117 (19945/571401)
+2020.03.26 04:38:17.687	ObjectManager found, ingame flag: 1
+2020.03.26 04:38:17.719	CK#1 sanity check triggered
+2020.03.26 04:38:17.732	deduction - world max index: 2
+2020.03.26 04:38:17.732	deduction - scene max index: 9
+2020.03.26 04:38:17.742	deduction - me: 0, 2001797201, 288482 (valid), 6485
+2020.03.26 04:38:17.743	deduction - actor max index: 151, valid: True
+2020.03.26 04:38:17.743	deduction - acd max index: 504, valid: True
+2020.03.26 04:38:17.756	deduction - highest actor dict: *143,*3
+2020.03.26 04:38:17.756	deduction - CK#1: 2964421090
+2020.03.26 04:38:17.756	deduction - me pos: 1296.68:1098.46:0.10
+2020.03.26 04:38:17.756	deduction - CK#2: 4048623136
+2020.03.26 04:38:17.756	deduction - A scene#3(132238): different area (276212), 1200-1440, 720-960, CK3: 1552859240, CK4: 46302350
+2020.03.26 04:38:17.756	deduction - A scene#7(154775): different area (276212), 1200-1440, 1200-1440, CK3: 1399373830, CK4: 46302350
+2020.03.26 04:38:17.756	deduction - A scene#8(132258): different area (276212), 1200-1440, 960-1200, CK3: 1400160370, CK4: 46302350
+2020.03.26 04:38:17.756	deduction - A scene#9(132283): different area (276212), 960-1200, 960-1200, CK3: 1400356977, CK4: 46302350
+2020.03.26 04:38:17.756	deduction - B scene#3(132238): no overlap, 1200-1440, 720-960, CK3: 1552859240, CK4: 46302350
+2020.03.26 04:38:17.756	deduction - B scene#7(154775): no overlap, 1200-1440, 1200-1440, CK3: 1399373830, CK4: 46302350
+2020.03.26 04:38:17.759	deduction - B scene#8(132258): 69, 1200-1440, 960-1200, CK3: 1400160370, CK4: 46302350
+2020.03.26 04:38:17.759	deduction - B scene#9(132283): no overlap, 960-1200, 960-1200, CK3: 1400356977, CK4: 46302350
+2020.03.26 04:38:17.759	deduction - CK#3: 1400160370
+2020.03.26 04:38:17.759	deduction - CK#4: 46302350
+2020.03.26 04:38:17.759	scan finished in 79 ms
+2020.03.26 04:38:18.026	new run: Witch Doctor, Rift Level 01, Difficulty: t16
+2020.03.26 04:39:56.140	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 04:39:59.856	scan started [20.3.9.0]
+2020.03.26 04:39:59.965	header load time: 105 (19941/577289)
+2020.03.26 04:39:59.972	ObjectManager found, ingame flag: 1
+2020.03.26 04:40:00.001	CK#1 sanity check triggered
+2020.03.26 04:40:00.012	deduction - world max index: 2
+2020.03.26 04:40:00.012	deduction - scene max index: 9
+2020.03.26 04:40:00.021	deduction - me: 0, 2001797201, 288482 (valid), 6485
+2020.03.26 04:40:00.022	deduction - actor max index: 154, valid: True
+2020.03.26 04:40:00.022	deduction - acd max index: 504, valid: True
+2020.03.26 04:40:00.032	deduction - highest actor dict: *147,*2
+2020.03.26 04:40:00.033	deduction - CK#1: 2964421090
+2020.03.26 04:40:00.033	deduction - me pos: 1313.83:1087.72:0.10
+2020.03.26 04:40:00.033	deduction - CK#2: 4048623136
+2020.03.26 04:40:00.033	deduction - A scene#3(132238): different area (276212), 1200-1440, 720-960, CK3: 1552859240, CK4: 46302350
+2020.03.26 04:40:00.033	deduction - A scene#8(132258): different area (276212), 1200-1440, 960-1200, CK3: 1400160370, CK4: 46302350
+2020.03.26 04:40:00.033	deduction - A scene#9(132283): different area (276212), 960-1200, 960-1200, CK3: 1400356977, CK4: 46302350
+2020.03.26 04:40:00.033	deduction - B scene#3(132238): no overlap, 1200-1440, 720-960, CK3: 1552859240, CK4: 46302350
+2020.03.26 04:40:00.035	deduction - B scene#8(132258): 69, 1200-1440, 960-1200, CK3: 1400160370, CK4: 46302350
+2020.03.26 04:40:00.035	deduction - B scene#9(132283): no overlap, 960-1200, 960-1200, CK3: 1400356977, CK4: 46302350
+2020.03.26 04:40:00.035	deduction - CK#3: 1400160370
+2020.03.26 04:40:00.035	deduction - CK#4: 46302350
+2020.03.26 04:40:00.036	scan finished in 70 ms
+2020.03.26 04:40:00.273	new run: Witch Doctor, Rift Level 01, Difficulty: t16
+2020.03.26 04:41:51.861	new area: Rift Level 01
+2020.03.26 04:41:52.099	new area: Rift Level 02
+2020.03.26 04:43:52.665	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 04:43:56.646	scan started [20.3.9.0]
+2020.03.26 04:43:56.780	header load time: 128 (21254/578326)
+2020.03.26 04:43:56.787	ObjectManager found, ingame flag: 1
+2020.03.26 04:43:56.821	CK#1 sanity check triggered
+2020.03.26 04:43:56.833	deduction - world max index: 3
+2020.03.26 04:43:56.833	deduction - scene max index: 13
+2020.03.26 04:43:56.843	deduction - me: 0, 2001797201, 288684 (valid), 6485
+2020.03.26 04:43:56.844	deduction - actor max index: 165, valid: True
+2020.03.26 04:43:56.844	deduction - acd max index: 509, valid: True
+2020.03.26 04:43:56.855	deduction - highest actor dict: *133
+2020.03.26 04:43:56.855	deduction - CK#1: 2964421090
+2020.03.26 04:43:56.855	deduction - me pos: 400.52:498.96:-0.57
+2020.03.26 04:43:56.855	deduction - CK#2: 4048623136
+2020.03.26 04:43:56.855	deduction - A scene#0(30958): different area (353527), 0-120, 480-600, CK3: 1398849614, CK4: 46302350
+2020.03.26 04:43:56.855	deduction - A scene#1(30958): different area (353527), 0-120, 360-480, CK3: 1399308353, CK4: 46302350
+2020.03.26 04:43:56.855	deduction - A scene#2(30976): different area (353527), 240-360, 480-600, CK3: 1399439431, CK4: 46302350
+2020.03.26 04:43:56.855	deduction - A scene#3(30973): different area (353527), 240-360, 360-480, CK3: 1400094845, CK4: 46302350
+2020.03.26 04:43:56.855	deduction - A scene#4(30988): different area (353527), 120-240, 360-480, CK3: 1400881257, CK4: 46302350
+2020.03.26 04:43:56.855	deduction - A scene#5(30976): different area (353527), 360-480, 480-600, CK3: 1400160370, CK4: 46302350
+2020.03.26 04:43:56.855	deduction - A scene#6(30958): different area (353527), 120-240, 240-360, CK3: 1398980684, CK4: 46302350
+2020.03.26 04:43:56.855	deduction - A scene#7(30989): different area (353527), 120-240, 480-600, CK3: 1400291440, CK4: 46302350
+2020.03.26 04:43:56.855	deduction - A scene#9(30958): different area (353527), 240-360, 240-360, CK3: 1398915151, CK4: 46302350
+2020.03.26 04:43:56.855	deduction - A scene#11(30958): different area (353527), 360-480, 240-360, CK3: 1393082790, CK4: 46302350
+2020.03.26 04:43:56.855	deduction - A scene#12(30973): different area (353527), 360-480, 360-480, CK3: 1399963775, CK4: 46302350
+2020.03.26 04:43:56.855	deduction - A scene#13(30978): different area (353527), 480-600, 480-600, CK3: 1400356977, CK4: 46302350
+2020.03.26 04:43:56.855	deduction - B scene#0(30958): no overlap, 0-120, 480-600, CK3: 1398849614, CK4: 46302350
+2020.03.26 04:43:56.855	deduction - B scene#1(30958): no overlap, 0-120, 360-480, CK3: 1399308353, CK4: 46302350
+2020.03.26 04:43:56.855	deduction - B scene#2(30976): no overlap, 240-360, 480-600, CK3: 1399439431, CK4: 46302350
+2020.03.26 04:43:56.855	deduction - B scene#3(30973): no overlap, 240-360, 360-480, CK3: 1400094845, CK4: 46302350
+2020.03.26 04:43:56.855	deduction - B scene#4(30988): no overlap, 120-240, 360-480, CK3: 1400881257, CK4: 46302350
+2020.03.26 04:43:56.858	deduction - B scene#5(30976): 81, 360-480, 480-600, CK3: 1400160370, CK4: 46302350
+2020.03.26 04:43:56.858	deduction - B scene#6(30958): no overlap, 120-240, 240-360, CK3: 1398980684, CK4: 46302350
+2020.03.26 04:43:56.858	deduction - B scene#7(30989): no overlap, 120-240, 480-600, CK3: 1400291440, CK4: 46302350
+2020.03.26 04:43:56.858	deduction - B scene#9(30958): no overlap, 240-360, 240-360, CK3: 1398915151, CK4: 46302350
+2020.03.26 04:43:56.858	deduction - B scene#11(30958): no overlap, 360-480, 240-360, CK3: 1393082790, CK4: 46302350
+2020.03.26 04:43:56.858	deduction - B scene#12(30973): no overlap, 360-480, 360-480, CK3: 1399963775, CK4: 46302350
+2020.03.26 04:43:56.858	deduction - B scene#13(30978): no overlap, 480-600, 480-600, CK3: 1400356977, CK4: 46302350
+2020.03.26 04:43:56.858	deduction - CK#3: 1400160370
+2020.03.26 04:43:56.858	deduction - CK#4: 46302350
+2020.03.26 04:43:56.858	scan finished in 78 ms
+2020.03.26 04:43:57.174	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 04:51:00.266	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 04:51:04.300	scan started [20.3.9.0]
+2020.03.26 04:51:04.430	header load time: 125 (22618/578398)
+2020.03.26 04:51:04.437	ObjectManager found, ingame flag: 1
+2020.03.26 04:51:04.470	CK#1 sanity check triggered
+2020.03.26 04:51:04.483	deduction - world max index: 3
+2020.03.26 04:51:04.483	deduction - scene max index: 13
+2020.03.26 04:51:04.494	deduction - me: 0, 2001797201, 288684 (valid), 6485
+2020.03.26 04:51:04.495	deduction - actor max index: 165, valid: True
+2020.03.26 04:51:04.495	deduction - acd max index: 514, valid: True
+2020.03.26 04:51:04.505	deduction - highest actor dict: *143,*3
+2020.03.26 04:51:04.505	deduction - CK#1: 2964421090
+2020.03.26 04:51:04.505	deduction - me pos: 409.07:466.06:-1.05
+2020.03.26 04:51:04.505	deduction - CK#2: 4048623136
+2020.03.26 04:51:04.505	deduction - A scene#0(30976): different area (353527), 240-360, 480-600, CK3: 1399636042, CK4: 46302350
+2020.03.26 04:51:04.505	deduction - A scene#1(30958): different area (353527), 0-120, 360-480, CK3: 1398980684, CK4: 46302350
+2020.03.26 04:51:04.505	deduction - A scene#2(30978): different area (353527), 480-600, 480-600, CK3: 1400029308, CK4: 46302350
+2020.03.26 04:51:04.505	deduction - A scene#3(30973): different area (353527), 240-360, 360-480, CK3: 1400291440, CK4: 46302350
+2020.03.26 04:51:04.505	deduction - A scene#4(30988): different area (353527), 120-240, 360-480, CK3: 1400553572, CK4: 46302350
+2020.03.26 04:51:04.505	deduction - A scene#5(30976): different area (353527), 360-480, 480-600, CK3: 1399963775, CK4: 46302350
+2020.03.26 04:51:04.505	deduction - A scene#6(30958): different area (353527), 120-240, 240-360, CK3: 1399308353, CK4: 46302350
+2020.03.26 04:51:04.505	deduction - A scene#8(30981): different area (353527), 480-600, 360-480, CK3: 1400356977, CK4: 46302350
+2020.03.26 04:51:04.505	deduction - A scene#9(30958): different area (353527), 240-360, 240-360, CK3: 1399111746, CK4: 46302350
+2020.03.26 04:51:04.505	deduction - A scene#11(30958): different area (353527), 360-480, 240-360, CK3: 1393410475, CK4: 46302350
+2020.03.26 04:51:04.505	deduction - A scene#12(30973): different area (353527), 360-480, 360-480, CK3: 1400160370, CK4: 46302350
+2020.03.26 04:51:04.505	deduction - A scene#13(30989): different area (353527), 120-240, 480-600, CK3: 1400094845, CK4: 46302350
+2020.03.26 04:51:04.505	deduction - B scene#0(30976): no overlap, 240-360, 480-600, CK3: 1399636042, CK4: 46302350
+2020.03.26 04:51:04.505	deduction - B scene#1(30958): no overlap, 0-120, 360-480, CK3: 1398980684, CK4: 46302350
+2020.03.26 04:51:04.505	deduction - B scene#2(30978): no overlap, 480-600, 480-600, CK3: 1400029308, CK4: 46302350
+2020.03.26 04:51:04.505	deduction - B scene#3(30973): no overlap, 240-360, 360-480, CK3: 1400291440, CK4: 46302350
+2020.03.26 04:51:04.505	deduction - B scene#4(30988): no overlap, 120-240, 360-480, CK3: 1400553572, CK4: 46302350
+2020.03.26 04:51:04.505	deduction - B scene#5(30976): no overlap, 360-480, 480-600, CK3: 1399963775, CK4: 46302350
+2020.03.26 04:51:04.505	deduction - B scene#6(30958): no overlap, 120-240, 240-360, CK3: 1399308353, CK4: 46302350
+2020.03.26 04:51:04.505	deduction - B scene#8(30981): no overlap, 480-600, 360-480, CK3: 1400356977, CK4: 46302350
+2020.03.26 04:51:04.505	deduction - B scene#9(30958): no overlap, 240-360, 240-360, CK3: 1399111746, CK4: 46302350
+2020.03.26 04:51:04.505	deduction - B scene#11(30958): no overlap, 360-480, 240-360, CK3: 1393410475, CK4: 46302350
+2020.03.26 04:51:04.509	deduction - B scene#12(30973): 83, 360-480, 360-480, CK3: 1400160370, CK4: 46302350
+2020.03.26 04:51:04.509	deduction - B scene#13(30989): no overlap, 120-240, 480-600, CK3: 1400094845, CK4: 46302350
+2020.03.26 04:51:04.509	deduction - CK#3: 1400160370
+2020.03.26 04:51:04.509	deduction - CK#4: 46302350
+2020.03.26 04:51:04.509	scan finished in 78 ms
+2020.03.26 04:51:04.840	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 04:52:59.445	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 04:53:03.070	scan started [20.3.9.0]
+2020.03.26 04:53:03.180	header load time: 105 (22867/578431)
+2020.03.26 04:53:03.187	ObjectManager found, ingame flag: 1
+2020.03.26 04:53:03.217	CK#1 sanity check triggered
+2020.03.26 04:53:03.228	deduction - world max index: 3
+2020.03.26 04:53:03.228	deduction - scene max index: 13
+2020.03.26 04:53:03.238	deduction - me: 0, 2001797201, 288684 (valid), 6485
+2020.03.26 04:53:03.239	deduction - actor max index: 165, valid: True
+2020.03.26 04:53:03.239	deduction - acd max index: 514, valid: True
+2020.03.26 04:53:03.249	deduction - highest actor dict: *135,*3
+2020.03.26 04:53:03.249	deduction - CK#1: 2964421090
+2020.03.26 04:53:03.249	deduction - me pos: 426.32:459.61:-0.74
+2020.03.26 04:53:03.249	deduction - CK#2: 4048623136
+2020.03.26 04:53:03.249	deduction - A scene#0(30976): different area (353527), 240-360, 480-600, CK3: 1399636042, CK4: 46302350
+2020.03.26 04:53:03.249	deduction - A scene#1(30958): different area (353527), 0-120, 360-480, CK3: 1398980684, CK4: 46302350
+2020.03.26 04:53:03.249	deduction - A scene#2(30978): different area (353527), 480-600, 480-600, CK3: 1400029308, CK4: 46302350
+2020.03.26 04:53:03.249	deduction - A scene#3(30973): different area (353527), 240-360, 360-480, CK3: 1400291440, CK4: 46302350
+2020.03.26 04:53:03.249	deduction - A scene#4(30988): different area (353527), 120-240, 360-480, CK3: 1400553572, CK4: 46302350
+2020.03.26 04:53:03.249	deduction - A scene#5(30976): different area (353527), 360-480, 480-600, CK3: 1399963775, CK4: 46302350
+2020.03.26 04:53:03.249	deduction - A scene#6(30958): different area (353527), 120-240, 240-360, CK3: 1399308353, CK4: 46302350
+2020.03.26 04:53:03.249	deduction - A scene#8(30981): different area (353527), 480-600, 360-480, CK3: 1400356977, CK4: 46302350
+2020.03.26 04:53:03.249	deduction - A scene#9(30958): different area (353527), 240-360, 240-360, CK3: 1399111746, CK4: 46302350
+2020.03.26 04:53:03.249	deduction - A scene#11(30958): different area (353527), 360-480, 240-360, CK3: 1393410475, CK4: 46302350
+2020.03.26 04:53:03.249	deduction - A scene#12(30973): different area (353527), 360-480, 360-480, CK3: 1400160370, CK4: 46302350
+2020.03.26 04:53:03.249	deduction - A scene#13(30989): different area (353527), 120-240, 480-600, CK3: 1400094845, CK4: 46302350
+2020.03.26 04:53:03.249	deduction - B scene#0(30976): no overlap, 240-360, 480-600, CK3: 1399636042, CK4: 46302350
+2020.03.26 04:53:03.249	deduction - B scene#1(30958): no overlap, 0-120, 360-480, CK3: 1398980684, CK4: 46302350
+2020.03.26 04:53:03.249	deduction - B scene#2(30978): no overlap, 480-600, 480-600, CK3: 1400029308, CK4: 46302350
+2020.03.26 04:53:03.249	deduction - B scene#3(30973): no overlap, 240-360, 360-480, CK3: 1400291440, CK4: 46302350
+2020.03.26 04:53:03.249	deduction - B scene#4(30988): no overlap, 120-240, 360-480, CK3: 1400553572, CK4: 46302350
+2020.03.26 04:53:03.249	deduction - B scene#5(30976): no overlap, 360-480, 480-600, CK3: 1399963775, CK4: 46302350
+2020.03.26 04:53:03.249	deduction - B scene#6(30958): no overlap, 120-240, 240-360, CK3: 1399308353, CK4: 46302350
+2020.03.26 04:53:03.249	deduction - B scene#8(30981): no overlap, 480-600, 360-480, CK3: 1400356977, CK4: 46302350
+2020.03.26 04:53:03.249	deduction - B scene#9(30958): no overlap, 240-360, 240-360, CK3: 1399111746, CK4: 46302350
+2020.03.26 04:53:03.249	deduction - B scene#11(30958): no overlap, 360-480, 240-360, CK3: 1393410475, CK4: 46302350
+2020.03.26 04:53:03.252	deduction - B scene#12(30973): 83, 360-480, 360-480, CK3: 1400160370, CK4: 46302350
+2020.03.26 04:53:03.252	deduction - B scene#13(30989): no overlap, 120-240, 480-600, CK3: 1400094845, CK4: 46302350
+2020.03.26 04:53:03.252	deduction - CK#3: 1400160370
+2020.03.26 04:53:03.252	deduction - CK#4: 46302350
+2020.03.26 04:53:03.252	scan finished in 71 ms
+2020.03.26 04:53:03.548	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 04:53:52.222	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 04:53:56.012	scan started [20.3.9.0]
+2020.03.26 04:53:56.139	header load time: 122 (22831/578383)
+2020.03.26 04:53:56.146	ObjectManager found, ingame flag: 1
+2020.03.26 04:53:56.179	CK#1 sanity check triggered
+2020.03.26 04:53:56.191	deduction - world max index: 3
+2020.03.26 04:53:56.191	deduction - scene max index: 13
+2020.03.26 04:53:56.203	deduction - me: 0, 2001797201, 288684 (valid), 6485
+2020.03.26 04:53:56.204	deduction - actor max index: 165, valid: True
+2020.03.26 04:53:56.204	deduction - acd max index: 514, valid: True
+2020.03.26 04:53:56.214	deduction - highest actor dict: *140,*4
+2020.03.26 04:53:56.214	deduction - CK#1: 2964421090
+2020.03.26 04:53:56.214	deduction - me pos: 415.36:456.27:-1.57
+2020.03.26 04:53:56.214	deduction - CK#2: 4048623136
+2020.03.26 04:53:56.214	deduction - A scene#0(30976): different area (353527), 240-360, 480-600, CK3: 1399636042, CK4: 46302350
+2020.03.26 04:53:56.214	deduction - A scene#1(30958): different area (353527), 0-120, 360-480, CK3: 1398980684, CK4: 46302350
+2020.03.26 04:53:56.214	deduction - A scene#2(30978): different area (353527), 480-600, 480-600, CK3: 1400029308, CK4: 46302350
+2020.03.26 04:53:56.214	deduction - A scene#3(30973): different area (353527), 240-360, 360-480, CK3: 1400291440, CK4: 46302350
+2020.03.26 04:53:56.214	deduction - A scene#4(30988): different area (353527), 120-240, 360-480, CK3: 1400553572, CK4: 46302350
+2020.03.26 04:53:56.214	deduction - A scene#5(30976): different area (353527), 360-480, 480-600, CK3: 1399963775, CK4: 46302350
+2020.03.26 04:53:56.214	deduction - A scene#6(30958): different area (353527), 120-240, 240-360, CK3: 1399308353, CK4: 46302350
+2020.03.26 04:53:56.214	deduction - A scene#8(30981): different area (353527), 480-600, 360-480, CK3: 1400356977, CK4: 46302350
+2020.03.26 04:53:56.214	deduction - A scene#9(30958): different area (353527), 240-360, 240-360, CK3: 1399111746, CK4: 46302350
+2020.03.26 04:53:56.214	deduction - A scene#11(30958): different area (353527), 360-480, 240-360, CK3: 1393410475, CK4: 46302350
+2020.03.26 04:53:56.214	deduction - A scene#12(30973): different area (353527), 360-480, 360-480, CK3: 1400160370, CK4: 46302350
+2020.03.26 04:53:56.214	deduction - A scene#13(30989): different area (353527), 120-240, 480-600, CK3: 1400094845, CK4: 46302350
+2020.03.26 04:53:56.214	deduction - B scene#0(30976): no overlap, 240-360, 480-600, CK3: 1399636042, CK4: 46302350
+2020.03.26 04:53:56.214	deduction - B scene#1(30958): no overlap, 0-120, 360-480, CK3: 1398980684, CK4: 46302350
+2020.03.26 04:53:56.214	deduction - B scene#2(30978): no overlap, 480-600, 480-600, CK3: 1400029308, CK4: 46302350
+2020.03.26 04:53:56.214	deduction - B scene#3(30973): no overlap, 240-360, 360-480, CK3: 1400291440, CK4: 46302350
+2020.03.26 04:53:56.214	deduction - B scene#4(30988): no overlap, 120-240, 360-480, CK3: 1400553572, CK4: 46302350
+2020.03.26 04:53:56.214	deduction - B scene#5(30976): no overlap, 360-480, 480-600, CK3: 1399963775, CK4: 46302350
+2020.03.26 04:53:56.214	deduction - B scene#6(30958): no overlap, 120-240, 240-360, CK3: 1399308353, CK4: 46302350
+2020.03.26 04:53:56.214	deduction - B scene#8(30981): no overlap, 480-600, 360-480, CK3: 1400356977, CK4: 46302350
+2020.03.26 04:53:56.214	deduction - B scene#9(30958): no overlap, 240-360, 240-360, CK3: 1399111746, CK4: 46302350
+2020.03.26 04:53:56.214	deduction - B scene#11(30958): no overlap, 360-480, 240-360, CK3: 1393410475, CK4: 46302350
+2020.03.26 04:53:56.217	deduction - B scene#12(30973): 83, 360-480, 360-480, CK3: 1400160370, CK4: 46302350
+2020.03.26 04:53:56.217	deduction - B scene#13(30989): no overlap, 120-240, 480-600, CK3: 1400094845, CK4: 46302350
+2020.03.26 04:53:56.217	deduction - CK#3: 1400160370
+2020.03.26 04:53:56.217	deduction - CK#4: 46302350
+2020.03.26 04:53:56.218	scan finished in 78 ms
+2020.03.26 04:53:56.548	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 04:55:12.246	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 04:55:16.156	scan started [20.3.9.0]
+2020.03.26 04:55:16.286	header load time: 125 (22981/578385)
+2020.03.26 04:55:16.293	ObjectManager found, ingame flag: 1
+2020.03.26 04:55:16.327	CK#1 sanity check triggered
+2020.03.26 04:55:16.339	deduction - world max index: 3
+2020.03.26 04:55:16.339	deduction - scene max index: 13
+2020.03.26 04:55:16.349	deduction - me: 0, 2001797201, 288684 (valid), 6485
+2020.03.26 04:55:16.350	deduction - actor max index: 165, valid: True
+2020.03.26 04:55:16.350	deduction - acd max index: 514, valid: True
+2020.03.26 04:55:16.361	deduction - highest actor dict: *141,*3
+2020.03.26 04:55:16.361	deduction - CK#1: 2964421090
+2020.03.26 04:55:16.361	deduction - me pos: 402.50:459.75:-1.40
+2020.03.26 04:55:16.361	deduction - CK#2: 4048623136
+2020.03.26 04:55:16.361	deduction - A scene#0(30976): different area (353527), 240-360, 480-600, CK3: 1399636042, CK4: 46302350
+2020.03.26 04:55:16.361	deduction - A scene#1(30958): different area (353527), 0-120, 360-480, CK3: 1398980684, CK4: 46302350
+2020.03.26 04:55:16.361	deduction - A scene#2(30978): different area (353527), 480-600, 480-600, CK3: 1400029308, CK4: 46302350
+2020.03.26 04:55:16.361	deduction - A scene#3(30973): different area (353527), 240-360, 360-480, CK3: 1400291440, CK4: 46302350
+2020.03.26 04:55:16.361	deduction - A scene#4(30988): different area (353527), 120-240, 360-480, CK3: 1400553572, CK4: 46302350
+2020.03.26 04:55:16.361	deduction - A scene#5(30976): different area (353527), 360-480, 480-600, CK3: 1399963775, CK4: 46302350
+2020.03.26 04:55:16.361	deduction - A scene#6(30958): different area (353527), 120-240, 240-360, CK3: 1399308353, CK4: 46302350
+2020.03.26 04:55:16.361	deduction - A scene#8(30981): different area (353527), 480-600, 360-480, CK3: 1400356977, CK4: 46302350
+2020.03.26 04:55:16.361	deduction - A scene#9(30958): different area (353527), 240-360, 240-360, CK3: 1399111746, CK4: 46302350
+2020.03.26 04:55:16.361	deduction - A scene#11(30958): different area (353527), 360-480, 240-360, CK3: 1393410475, CK4: 46302350
+2020.03.26 04:55:16.361	deduction - A scene#12(30973): different area (353527), 360-480, 360-480, CK3: 1400160370, CK4: 46302350
+2020.03.26 04:55:16.361	deduction - A scene#13(30989): different area (353527), 120-240, 480-600, CK3: 1400094845, CK4: 46302350
+2020.03.26 04:55:16.361	deduction - B scene#0(30976): no overlap, 240-360, 480-600, CK3: 1399636042, CK4: 46302350
+2020.03.26 04:55:16.361	deduction - B scene#1(30958): no overlap, 0-120, 360-480, CK3: 1398980684, CK4: 46302350
+2020.03.26 04:55:16.361	deduction - B scene#2(30978): no overlap, 480-600, 480-600, CK3: 1400029308, CK4: 46302350
+2020.03.26 04:55:16.361	deduction - B scene#3(30973): no overlap, 240-360, 360-480, CK3: 1400291440, CK4: 46302350
+2020.03.26 04:55:16.361	deduction - B scene#4(30988): no overlap, 120-240, 360-480, CK3: 1400553572, CK4: 46302350
+2020.03.26 04:55:16.361	deduction - B scene#5(30976): no overlap, 360-480, 480-600, CK3: 1399963775, CK4: 46302350
+2020.03.26 04:55:16.361	deduction - B scene#6(30958): no overlap, 120-240, 240-360, CK3: 1399308353, CK4: 46302350
+2020.03.26 04:55:16.361	deduction - B scene#8(30981): no overlap, 480-600, 360-480, CK3: 1400356977, CK4: 46302350
+2020.03.26 04:55:16.361	deduction - B scene#9(30958): no overlap, 240-360, 240-360, CK3: 1399111746, CK4: 46302350
+2020.03.26 04:55:16.361	deduction - B scene#11(30958): no overlap, 360-480, 240-360, CK3: 1393410475, CK4: 46302350
+2020.03.26 04:55:16.364	deduction - B scene#12(30973): 83, 360-480, 360-480, CK3: 1400160370, CK4: 46302350
+2020.03.26 04:55:16.364	deduction - B scene#13(30989): no overlap, 120-240, 480-600, CK3: 1400094845, CK4: 46302350
+2020.03.26 04:55:16.364	deduction - CK#3: 1400160370
+2020.03.26 04:55:16.364	deduction - CK#4: 46302350
+2020.03.26 04:55:16.364	scan finished in 78 ms
+2020.03.26 04:55:16.682	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 04:56:34.850	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 04:56:38.769	scan started [20.3.9.0]
+2020.03.26 04:56:38.899	header load time: 126 (23345/578404)
+2020.03.26 04:56:38.907	ObjectManager found, ingame flag: 1
+2020.03.26 04:56:38.940	CK#1 sanity check triggered
+2020.03.26 04:56:38.953	deduction - world max index: 3
+2020.03.26 04:56:38.953	deduction - scene max index: 13
+2020.03.26 04:56:38.964	deduction - me: 0, 2001797201, 288684 (valid), 6485
+2020.03.26 04:56:38.964	deduction - actor max index: 165, valid: True
+2020.03.26 04:56:38.965	deduction - acd max index: 514, valid: True
+2020.03.26 04:56:38.975	deduction - highest actor dict: *141,*3
+2020.03.26 04:56:38.975	deduction - CK#1: 2964421090
+2020.03.26 04:56:38.975	deduction - me pos: 404.98:449.32:-1.57
+2020.03.26 04:56:38.975	deduction - CK#2: 4048623136
+2020.03.26 04:56:38.975	deduction - A scene#0(30976): different area (353527), 240-360, 480-600, CK3: 1399636042, CK4: 46302350
+2020.03.26 04:56:38.975	deduction - A scene#1(30958): different area (353527), 0-120, 360-480, CK3: 1398980684, CK4: 46302350
+2020.03.26 04:56:38.975	deduction - A scene#2(30978): different area (353527), 480-600, 480-600, CK3: 1400029308, CK4: 46302350
+2020.03.26 04:56:38.975	deduction - A scene#3(30973): different area (353527), 240-360, 360-480, CK3: 1400291440, CK4: 46302350
+2020.03.26 04:56:38.975	deduction - A scene#4(30988): different area (353527), 120-240, 360-480, CK3: 1400553572, CK4: 46302350
+2020.03.26 04:56:38.975	deduction - A scene#5(30976): different area (353527), 360-480, 480-600, CK3: 1399963775, CK4: 46302350
+2020.03.26 04:56:38.975	deduction - A scene#6(30958): different area (353527), 120-240, 240-360, CK3: 1399308353, CK4: 46302350
+2020.03.26 04:56:38.975	deduction - A scene#8(30981): different area (353527), 480-600, 360-480, CK3: 1400356977, CK4: 46302350
+2020.03.26 04:56:38.975	deduction - A scene#9(30958): different area (353527), 240-360, 240-360, CK3: 1399111746, CK4: 46302350
+2020.03.26 04:56:38.975	deduction - A scene#11(30958): different area (353527), 360-480, 240-360, CK3: 1393410475, CK4: 46302350
+2020.03.26 04:56:38.975	deduction - A scene#12(30973): different area (353527), 360-480, 360-480, CK3: 1400160370, CK4: 46302350
+2020.03.26 04:56:38.975	deduction - A scene#13(30989): different area (353527), 120-240, 480-600, CK3: 1400094845, CK4: 46302350
+2020.03.26 04:56:38.975	deduction - B scene#0(30976): no overlap, 240-360, 480-600, CK3: 1399636042, CK4: 46302350
+2020.03.26 04:56:38.975	deduction - B scene#1(30958): no overlap, 0-120, 360-480, CK3: 1398980684, CK4: 46302350
+2020.03.26 04:56:38.975	deduction - B scene#2(30978): no overlap, 480-600, 480-600, CK3: 1400029308, CK4: 46302350
+2020.03.26 04:56:38.975	deduction - B scene#3(30973): no overlap, 240-360, 360-480, CK3: 1400291440, CK4: 46302350
+2020.03.26 04:56:38.975	deduction - B scene#4(30988): no overlap, 120-240, 360-480, CK3: 1400553572, CK4: 46302350
+2020.03.26 04:56:38.975	deduction - B scene#5(30976): no overlap, 360-480, 480-600, CK3: 1399963775, CK4: 46302350
+2020.03.26 04:56:38.975	deduction - B scene#6(30958): no overlap, 120-240, 240-360, CK3: 1399308353, CK4: 46302350
+2020.03.26 04:56:38.975	deduction - B scene#8(30981): no overlap, 480-600, 360-480, CK3: 1400356977, CK4: 46302350
+2020.03.26 04:56:38.975	deduction - B scene#9(30958): no overlap, 240-360, 240-360, CK3: 1399111746, CK4: 46302350
+2020.03.26 04:56:38.975	deduction - B scene#11(30958): no overlap, 360-480, 240-360, CK3: 1393410475, CK4: 46302350
+2020.03.26 04:56:38.978	deduction - B scene#12(30973): 83, 360-480, 360-480, CK3: 1400160370, CK4: 46302350
+2020.03.26 04:56:38.978	deduction - B scene#13(30989): no overlap, 120-240, 480-600, CK3: 1400094845, CK4: 46302350
+2020.03.26 04:56:38.978	deduction - CK#3: 1400160370
+2020.03.26 04:56:38.978	deduction - CK#4: 46302350
+2020.03.26 04:56:38.979	scan finished in 79 ms
+2020.03.26 04:56:39.298	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 04:58:23.902	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 04:58:27.601	scan started [20.3.9.0]
+2020.03.26 04:58:27.713	header load time: 107 (24228/578451)
+2020.03.26 04:58:27.720	ObjectManager found, ingame flag: 1
+2020.03.26 04:58:27.750	CK#1 sanity check triggered
+2020.03.26 04:58:27.761	deduction - world max index: 3
+2020.03.26 04:58:27.761	deduction - scene max index: 13
+2020.03.26 04:58:27.771	deduction - me: 0, 2001797201, 288684 (valid), 6485
+2020.03.26 04:58:27.771	deduction - actor max index: 165, valid: True
+2020.03.26 04:58:27.771	deduction - acd max index: 514, valid: True
+2020.03.26 04:58:27.782	deduction - highest actor dict: *138,*3
+2020.03.26 04:58:27.782	deduction - CK#1: 2964421090
+2020.03.26 04:58:27.782	deduction - me pos: 426.26:455.09:-0.74
+2020.03.26 04:58:27.782	deduction - CK#2: 4048623136
+2020.03.26 04:58:27.782	deduction - A scene#0(30976): different area (353527), 240-360, 480-600, CK3: 1399636042, CK4: 46302350
+2020.03.26 04:58:27.782	deduction - A scene#1(30958): different area (353527), 0-120, 360-480, CK3: 1398980684, CK4: 46302350
+2020.03.26 04:58:27.782	deduction - A scene#2(30978): different area (353527), 480-600, 480-600, CK3: 1400029308, CK4: 46302350
+2020.03.26 04:58:27.782	deduction - A scene#3(30973): different area (353527), 240-360, 360-480, CK3: 1400291440, CK4: 46302350
+2020.03.26 04:58:27.782	deduction - A scene#4(30988): different area (353527), 120-240, 360-480, CK3: 1400553572, CK4: 46302350
+2020.03.26 04:58:27.782	deduction - A scene#5(30976): different area (353527), 360-480, 480-600, CK3: 1399963775, CK4: 46302350
+2020.03.26 04:58:27.782	deduction - A scene#6(30958): different area (353527), 120-240, 240-360, CK3: 1399308353, CK4: 46302350
+2020.03.26 04:58:27.782	deduction - A scene#8(30981): different area (353527), 480-600, 360-480, CK3: 1400356977, CK4: 46302350
+2020.03.26 04:58:27.782	deduction - A scene#9(30958): different area (353527), 240-360, 240-360, CK3: 1399111746, CK4: 46302350
+2020.03.26 04:58:27.782	deduction - A scene#11(30958): different area (353527), 360-480, 240-360, CK3: 1393410475, CK4: 46302350
+2020.03.26 04:58:27.782	deduction - A scene#12(30973): different area (353527), 360-480, 360-480, CK3: 1400160370, CK4: 46302350
+2020.03.26 04:58:27.782	deduction - A scene#13(30989): different area (353527), 120-240, 480-600, CK3: 1400094845, CK4: 46302350
+2020.03.26 04:58:27.782	deduction - B scene#0(30976): no overlap, 240-360, 480-600, CK3: 1399636042, CK4: 46302350
+2020.03.26 04:58:27.782	deduction - B scene#1(30958): no overlap, 0-120, 360-480, CK3: 1398980684, CK4: 46302350
+2020.03.26 04:58:27.782	deduction - B scene#2(30978): no overlap, 480-600, 480-600, CK3: 1400029308, CK4: 46302350
+2020.03.26 04:58:27.782	deduction - B scene#3(30973): no overlap, 240-360, 360-480, CK3: 1400291440, CK4: 46302350
+2020.03.26 04:58:27.782	deduction - B scene#4(30988): no overlap, 120-240, 360-480, CK3: 1400553572, CK4: 46302350
+2020.03.26 04:58:27.782	deduction - B scene#5(30976): no overlap, 360-480, 480-600, CK3: 1399963775, CK4: 46302350
+2020.03.26 04:58:27.782	deduction - B scene#6(30958): no overlap, 120-240, 240-360, CK3: 1399308353, CK4: 46302350
+2020.03.26 04:58:27.782	deduction - B scene#8(30981): no overlap, 480-600, 360-480, CK3: 1400356977, CK4: 46302350
+2020.03.26 04:58:27.782	deduction - B scene#9(30958): no overlap, 240-360, 240-360, CK3: 1399111746, CK4: 46302350
+2020.03.26 04:58:27.782	deduction - B scene#11(30958): no overlap, 360-480, 240-360, CK3: 1393410475, CK4: 46302350
+2020.03.26 04:58:27.785	deduction - B scene#12(30973): 83, 360-480, 360-480, CK3: 1400160370, CK4: 46302350
+2020.03.26 04:58:27.785	deduction - B scene#13(30989): no overlap, 120-240, 480-600, CK3: 1400094845, CK4: 46302350
+2020.03.26 04:58:27.785	deduction - CK#3: 1400160370
+2020.03.26 04:58:27.785	deduction - CK#4: 46302350
+2020.03.26 04:58:27.786	scan finished in 72 ms
+2020.03.26 04:58:28.078	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 05:03:31.517	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 05:03:35.399	scan started [20.3.9.0]
+2020.03.26 05:03:35.538	header load time: 133 (25289/578476)
+2020.03.26 05:03:35.545	ObjectManager found, ingame flag: 1
+2020.03.26 05:03:35.580	CK#1 sanity check triggered
+2020.03.26 05:03:35.593	deduction - world max index: 3
+2020.03.26 05:03:35.593	deduction - scene max index: 13
+2020.03.26 05:03:35.606	deduction - me: 0, 2001797201, 288684 (valid), 6485
+2020.03.26 05:03:35.607	deduction - actor max index: 165, valid: True
+2020.03.26 05:03:35.607	deduction - acd max index: 509, valid: True
+2020.03.26 05:03:35.618	deduction - highest actor dict: *133,*2
+2020.03.26 05:03:35.618	deduction - CK#1: 2964421090
+2020.03.26 05:03:35.618	deduction - me pos: 417.72:412.78:-1.57
+2020.03.26 05:03:35.618	deduction - CK#2: 4048623136
+2020.03.26 05:03:35.618	deduction - A scene#1(30958): different area (353527), 0-120, 360-480, CK3: 1398980684, CK4: 46302350
+2020.03.26 05:03:35.618	deduction - A scene#2(30978): different area (353527), 480-600, 480-600, CK3: 1400029308, CK4: 46302350
+2020.03.26 05:03:35.618	deduction - A scene#3(30973): different area (353527), 240-360, 360-480, CK3: 1400291440, CK4: 46302350
+2020.03.26 05:03:35.618	deduction - A scene#4(30988): different area (353527), 120-240, 360-480, CK3: 1400553572, CK4: 46302350
+2020.03.26 05:03:35.618	deduction - A scene#5(30976): different area (353527), 360-480, 480-600, CK3: 1399963775, CK4: 46302350
+2020.03.26 05:03:35.618	deduction - A scene#6(30958): different area (353527), 120-240, 240-360, CK3: 1399308353, CK4: 46302350
+2020.03.26 05:03:35.618	deduction - A scene#7(30958): different area (353527), 0-120, 240-360, CK3: 1399242816, CK4: 46302350
+2020.03.26 05:03:35.618	deduction - A scene#8(30981): different area (353527), 480-600, 360-480, CK3: 1400356977, CK4: 46302350
+2020.03.26 05:03:35.618	deduction - A scene#9(30958): different area (353527), 240-360, 240-360, CK3: 1399111746, CK4: 46302350
+2020.03.26 05:03:35.618	deduction - A scene#11(30958): different area (353527), 360-480, 240-360, CK3: 1393410475, CK4: 46302350
+2020.03.26 05:03:35.618	deduction - A scene#12(30973): different area (353527), 360-480, 360-480, CK3: 1400160370, CK4: 46302350
+2020.03.26 05:03:35.618	deduction - A scene#13(30958): different area (353527), 480-600, 240-360, CK3: 1393213524, CK4: 46302350
+2020.03.26 05:03:35.618	deduction - B scene#1(30958): no overlap, 0-120, 360-480, CK3: 1398980684, CK4: 46302350
+2020.03.26 05:03:35.618	deduction - B scene#2(30978): no overlap, 480-600, 480-600, CK3: 1400029308, CK4: 46302350
+2020.03.26 05:03:35.618	deduction - B scene#3(30973): no overlap, 240-360, 360-480, CK3: 1400291440, CK4: 46302350
+2020.03.26 05:03:35.618	deduction - B scene#4(30988): no overlap, 120-240, 360-480, CK3: 1400553572, CK4: 46302350
+2020.03.26 05:03:35.618	deduction - B scene#5(30976): no overlap, 360-480, 480-600, CK3: 1399963775, CK4: 46302350
+2020.03.26 05:03:35.618	deduction - B scene#6(30958): no overlap, 120-240, 240-360, CK3: 1399308353, CK4: 46302350
+2020.03.26 05:03:35.618	deduction - B scene#7(30958): no overlap, 0-120, 240-360, CK3: 1399242816, CK4: 46302350
+2020.03.26 05:03:35.618	deduction - B scene#8(30981): no overlap, 480-600, 360-480, CK3: 1400356977, CK4: 46302350
+2020.03.26 05:03:35.618	deduction - B scene#9(30958): no overlap, 240-360, 240-360, CK3: 1399111746, CK4: 46302350
+2020.03.26 05:03:35.618	deduction - B scene#11(30958): no overlap, 360-480, 240-360, CK3: 1393410475, CK4: 46302350
+2020.03.26 05:03:35.621	deduction - B scene#12(30973): 81, 360-480, 360-480, CK3: 1400160370, CK4: 46302350
+2020.03.26 05:03:35.621	deduction - B scene#13(30958): no overlap, 480-600, 240-360, CK3: 1393213524, CK4: 46302350
+2020.03.26 05:03:35.621	deduction - CK#3: 1400160370
+2020.03.26 05:03:35.621	deduction - CK#4: 46302350
+2020.03.26 05:03:35.622	scan finished in 84 ms
+2020.03.26 05:03:35.969	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 05:05:02.027	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 05:05:06.004	scan started [20.3.9.0]
+2020.03.26 05:05:06.141	header load time: 131 (25660/578692)
+2020.03.26 05:05:06.148	ObjectManager found, ingame flag: 1
+2020.03.26 05:05:06.179	CK#1 sanity check triggered
+2020.03.26 05:05:06.191	deduction - world max index: 3
+2020.03.26 05:05:06.191	deduction - scene max index: 13
+2020.03.26 05:05:06.201	deduction - me: 0, 2001797201, 288684 (valid), 6485
+2020.03.26 05:05:06.202	deduction - actor max index: 186, valid: True
+2020.03.26 05:05:06.202	deduction - acd max index: 506, valid: True
+2020.03.26 05:05:06.213	deduction - highest actor dict: *178,*2
+2020.03.26 05:05:06.213	deduction - CK#1: 2964421090
+2020.03.26 05:05:06.213	deduction - me pos: 473.80:536.08:-1.57
+2020.03.26 05:05:06.213	deduction - CK#2: 4048623136
+2020.03.26 05:05:06.213	deduction - A scene#0(30958): different area (353527), 240-360, 240-360, CK3: 1398915151, CK4: 46302350
+2020.03.26 05:05:06.213	deduction - A scene#2(30978): different area (353527), 480-600, 480-600, CK3: 1400356977, CK4: 46302350
+2020.03.26 05:05:06.213	deduction - A scene#3(30973): different area (353527), 240-360, 360-480, CK3: 1400094845, CK4: 46302350
+2020.03.26 05:05:06.213	deduction - A scene#4(30958): different area (353527), 480-600, 240-360, CK3: 1393541209, CK4: 46302350
+2020.03.26 05:05:06.213	deduction - A scene#5(30976): different area (353527), 360-480, 480-600, CK3: 1400160370, CK4: 46302350
+2020.03.26 05:05:06.213	deduction - A scene#6(30958): different area (353527), 480-600, 600-720, CK3: 1394065489, CK4: 46302350
+2020.03.26 05:05:06.213	deduction - A scene#7(30976): different area (353527), 240-360, 480-600, CK3: 1399439431, CK4: 46302350
+2020.03.26 05:05:06.213	deduction - A scene#8(30981): different area (353527), 480-600, 360-480, CK3: 1400029308, CK4: 46302350
+2020.03.26 05:05:06.213	deduction - A scene#9(30958): different area (353527), 0-120, 480-600, CK3: 1398849614, CK4: 46302350
+2020.03.26 05:05:06.213	deduction - A scene#10(30958): different area (353527), 360-480, 600-720, CK3: 1393999952, CK4: 46302350
+2020.03.26 05:05:06.213	deduction - A scene#11(30958): different area (353527), 360-480, 240-360, CK3: 1393082790, CK4: 46302350
+2020.03.26 05:05:06.213	deduction - A scene#12(30973): different area (353527), 360-480, 360-480, CK3: 1399963775, CK4: 46302350
+2020.03.26 05:05:06.213	deduction - A scene#13(30989): different area (353527), 120-240, 480-600, CK3: 1400291440, CK4: 46302350
+2020.03.26 05:05:06.213	deduction - B scene#0(30958): no overlap, 240-360, 240-360, CK3: 1398915151, CK4: 46302350
+2020.03.26 05:05:06.213	deduction - B scene#2(30978): no overlap, 480-600, 480-600, CK3: 1400356977, CK4: 46302350
+2020.03.26 05:05:06.213	deduction - B scene#3(30973): no overlap, 240-360, 360-480, CK3: 1400094845, CK4: 46302350
+2020.03.26 05:05:06.213	deduction - B scene#4(30958): no overlap, 480-600, 240-360, CK3: 1393541209, CK4: 46302350
+2020.03.26 05:05:06.216	deduction - B scene#5(30976): 80, 360-480, 480-600, CK3: 1400160370, CK4: 46302350
+2020.03.26 05:05:06.216	deduction - B scene#6(30958): no overlap, 480-600, 600-720, CK3: 1394065489, CK4: 46302350
+2020.03.26 05:05:06.216	deduction - B scene#7(30976): no overlap, 240-360, 480-600, CK3: 1399439431, CK4: 46302350
+2020.03.26 05:05:06.216	deduction - B scene#8(30981): no overlap, 480-600, 360-480, CK3: 1400029308, CK4: 46302350
+2020.03.26 05:05:06.216	deduction - B scene#9(30958): no overlap, 0-120, 480-600, CK3: 1398849614, CK4: 46302350
+2020.03.26 05:05:06.216	deduction - B scene#10(30958): no overlap, 360-480, 600-720, CK3: 1393999952, CK4: 46302350
+2020.03.26 05:05:06.216	deduction - B scene#11(30958): no overlap, 360-480, 240-360, CK3: 1393082790, CK4: 46302350
+2020.03.26 05:05:06.216	deduction - B scene#12(30973): no overlap, 360-480, 360-480, CK3: 1399963775, CK4: 46302350
+2020.03.26 05:05:06.216	deduction - B scene#13(30989): no overlap, 120-240, 480-600, CK3: 1400291440, CK4: 46302350
+2020.03.26 05:05:06.216	deduction - CK#3: 1400160370
+2020.03.26 05:05:06.216	deduction - CK#4: 46302350
+2020.03.26 05:05:06.217	scan finished in 75 ms
+2020.03.26 05:05:06.474	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 05:07:00.333	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 05:07:04.314	scan started [20.3.9.0]
+2020.03.26 05:07:04.456	header load time: 136 (25681/578572)
+2020.03.26 05:07:04.463	ObjectManager found, ingame flag: 1
+2020.03.26 05:07:04.496	CK#1 sanity check triggered
+2020.03.26 05:07:04.508	deduction - world max index: 3
+2020.03.26 05:07:04.508	deduction - scene max index: 13
+2020.03.26 05:07:04.518	deduction - me: 0, 2001797201, 288684 (valid), 6485
+2020.03.26 05:07:04.519	deduction - actor max index: 187, valid: True
+2020.03.26 05:07:04.519	deduction - acd max index: 506, valid: True
+2020.03.26 05:07:04.530	deduction - highest actor dict: *180,*2
+2020.03.26 05:07:04.530	deduction - CK#1: 2964421090
+2020.03.26 05:07:04.530	deduction - me pos: 425.52:531.52:-1.41
+2020.03.26 05:07:04.530	deduction - CK#2: 4048623136
+2020.03.26 05:07:04.530	deduction - A scene#0(30958): different area (353527), 240-360, 240-360, CK3: 1398915151, CK4: 46302350
+2020.03.26 05:07:04.530	deduction - A scene#2(30978): different area (353527), 480-600, 480-600, CK3: 1400356977, CK4: 46302350
+2020.03.26 05:07:04.530	deduction - A scene#3(30973): different area (353527), 240-360, 360-480, CK3: 1400094845, CK4: 46302350
+2020.03.26 05:07:04.530	deduction - A scene#4(30958): different area (353527), 0-120, 360-480, CK3: 1399308353, CK4: 46302350
+2020.03.26 05:07:04.530	deduction - A scene#5(30976): different area (353527), 360-480, 480-600, CK3: 1400160370, CK4: 46302350
+2020.03.26 05:07:04.530	deduction - A scene#6(30958): different area (353527), 120-240, 240-360, CK3: 1398980684, CK4: 46302350
+2020.03.26 05:07:04.530	deduction - A scene#7(30976): different area (353527), 240-360, 480-600, CK3: 1399439431, CK4: 46302350
+2020.03.26 05:07:04.530	deduction - A scene#8(30981): different area (353527), 480-600, 360-480, CK3: 1400029308, CK4: 46302350
+2020.03.26 05:07:04.530	deduction - A scene#9(30958): different area (353527), 0-120, 480-600, CK3: 1398849614, CK4: 46302350
+2020.03.26 05:07:04.530	deduction - A scene#10(30958): different area (353527), 360-480, 600-720, CK3: 1393999952, CK4: 46302350
+2020.03.26 05:07:04.530	deduction - A scene#11(30958): different area (353527), 360-480, 240-360, CK3: 1393082790, CK4: 46302350
+2020.03.26 05:07:04.530	deduction - A scene#12(30973): different area (353527), 360-480, 360-480, CK3: 1399963775, CK4: 46302350
+2020.03.26 05:07:04.530	deduction - A scene#13(30989): different area (353527), 120-240, 480-600, CK3: 1400291440, CK4: 46302350
+2020.03.26 05:07:04.530	deduction - B scene#0(30958): no overlap, 240-360, 240-360, CK3: 1398915151, CK4: 46302350
+2020.03.26 05:07:04.530	deduction - B scene#2(30978): no overlap, 480-600, 480-600, CK3: 1400356977, CK4: 46302350
+2020.03.26 05:07:04.530	deduction - B scene#3(30973): no overlap, 240-360, 360-480, CK3: 1400094845, CK4: 46302350
+2020.03.26 05:07:04.530	deduction - B scene#4(30958): no overlap, 0-120, 360-480, CK3: 1399308353, CK4: 46302350
+2020.03.26 05:07:04.533	deduction - B scene#5(30976): 80, 360-480, 480-600, CK3: 1400160370, CK4: 46302350
+2020.03.26 05:07:04.533	deduction - B scene#6(30958): no overlap, 120-240, 240-360, CK3: 1398980684, CK4: 46302350
+2020.03.26 05:07:04.533	deduction - B scene#7(30976): no overlap, 240-360, 480-600, CK3: 1399439431, CK4: 46302350
+2020.03.26 05:07:04.533	deduction - B scene#8(30981): no overlap, 480-600, 360-480, CK3: 1400029308, CK4: 46302350
+2020.03.26 05:07:04.533	deduction - B scene#9(30958): no overlap, 0-120, 480-600, CK3: 1398849614, CK4: 46302350
+2020.03.26 05:07:04.533	deduction - B scene#10(30958): no overlap, 360-480, 600-720, CK3: 1393999952, CK4: 46302350
+2020.03.26 05:07:04.533	deduction - B scene#11(30958): no overlap, 360-480, 240-360, CK3: 1393082790, CK4: 46302350
+2020.03.26 05:07:04.533	deduction - B scene#12(30973): no overlap, 360-480, 360-480, CK3: 1399963775, CK4: 46302350
+2020.03.26 05:07:04.533	deduction - B scene#13(30989): no overlap, 120-240, 480-600, CK3: 1400291440, CK4: 46302350
+2020.03.26 05:07:04.533	deduction - CK#3: 1400160370
+2020.03.26 05:07:04.533	deduction - CK#4: 46302350
+2020.03.26 05:07:04.533	scan finished in 77 ms
+2020.03.26 05:07:04.813	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 05:07:39.338	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 05:07:43.045	scan started [20.3.9.0]
+2020.03.26 05:07:43.161	header load time: 111 (25943/578613)
+2020.03.26 05:07:43.168	ObjectManager found, ingame flag: 1
+2020.03.26 05:07:43.198	CK#1 sanity check triggered
+2020.03.26 05:07:43.210	deduction - world max index: 3
+2020.03.26 05:07:43.210	deduction - scene max index: 13
+2020.03.26 05:07:43.219	deduction - me: 0, 2001797201, 288684 (valid), 6485
+2020.03.26 05:07:43.220	deduction - actor max index: 187, valid: True
+2020.03.26 05:07:43.220	deduction - acd max index: 506, valid: True
+2020.03.26 05:07:43.231	deduction - highest actor dict: *178,*2
+2020.03.26 05:07:43.231	deduction - CK#1: 2964421090
+2020.03.26 05:07:43.231	deduction - me pos: 440.44:533.01:-0.28
+2020.03.26 05:07:43.231	deduction - CK#2: 4048623136
+2020.03.26 05:07:43.231	deduction - A scene#0(30958): different area (353527), 240-360, 240-360, CK3: 1398915151, CK4: 46302350
+2020.03.26 05:07:43.231	deduction - A scene#2(30978): different area (353527), 480-600, 480-600, CK3: 1400356977, CK4: 46302350
+2020.03.26 05:07:43.231	deduction - A scene#3(30973): different area (353527), 240-360, 360-480, CK3: 1400094845, CK4: 46302350
+2020.03.26 05:07:43.231	deduction - A scene#5(30976): different area (353527), 360-480, 480-600, CK3: 1400160370, CK4: 46302350
+2020.03.26 05:07:43.231	deduction - A scene#7(30976): different area (353527), 240-360, 480-600, CK3: 1399439431, CK4: 46302350
+2020.03.26 05:07:43.231	deduction - A scene#8(30981): different area (353527), 480-600, 360-480, CK3: 1400029308, CK4: 46302350
+2020.03.26 05:07:43.231	deduction - A scene#9(30958): different area (353527), 0-120, 480-600, CK3: 1398849614, CK4: 46302350
+2020.03.26 05:07:43.231	deduction - A scene#10(30958): different area (353527), 360-480, 600-720, CK3: 1393999952, CK4: 46302350
+2020.03.26 05:07:43.231	deduction - A scene#11(30958): different area (353527), 360-480, 240-360, CK3: 1393082790, CK4: 46302350
+2020.03.26 05:07:43.231	deduction - A scene#12(30973): different area (353527), 360-480, 360-480, CK3: 1399963775, CK4: 46302350
+2020.03.26 05:07:43.231	deduction - A scene#13(30989): different area (353527), 120-240, 480-600, CK3: 1400291440, CK4: 46302350
+2020.03.26 05:07:43.231	deduction - B scene#0(30958): no overlap, 240-360, 240-360, CK3: 1398915151, CK4: 46302350
+2020.03.26 05:07:43.231	deduction - B scene#2(30978): no overlap, 480-600, 480-600, CK3: 1400356977, CK4: 46302350
+2020.03.26 05:07:43.231	deduction - B scene#3(30973): no overlap, 240-360, 360-480, CK3: 1400094845, CK4: 46302350
+2020.03.26 05:07:43.234	deduction - B scene#5(30976): 80, 360-480, 480-600, CK3: 1400160370, CK4: 46302350
+2020.03.26 05:07:43.234	deduction - B scene#7(30976): no overlap, 240-360, 480-600, CK3: 1399439431, CK4: 46302350
+2020.03.26 05:07:43.234	deduction - B scene#8(30981): no overlap, 480-600, 360-480, CK3: 1400029308, CK4: 46302350
+2020.03.26 05:07:43.234	deduction - B scene#9(30958): no overlap, 0-120, 480-600, CK3: 1398849614, CK4: 46302350
+2020.03.26 05:07:43.234	deduction - B scene#10(30958): no overlap, 360-480, 600-720, CK3: 1393999952, CK4: 46302350
+2020.03.26 05:07:43.234	deduction - B scene#11(30958): no overlap, 360-480, 240-360, CK3: 1393082790, CK4: 46302350
+2020.03.26 05:07:43.234	deduction - B scene#12(30973): no overlap, 360-480, 360-480, CK3: 1399963775, CK4: 46302350
+2020.03.26 05:07:43.234	deduction - B scene#13(30989): no overlap, 120-240, 480-600, CK3: 1400291440, CK4: 46302350
+2020.03.26 05:07:43.234	deduction - CK#3: 1400160370
+2020.03.26 05:07:43.234	deduction - CK#4: 46302350
+2020.03.26 05:07:43.234	scan finished in 73 ms
+2020.03.26 05:07:43.473	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 05:08:19.050	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 05:08:22.842	scan started [20.3.9.0]
+2020.03.26 05:08:22.970	header load time: 123 (25881/578628)
+2020.03.26 05:08:22.977	ObjectManager found, ingame flag: 1
+2020.03.26 05:08:23.007	CK#1 sanity check triggered
+2020.03.26 05:08:23.018	deduction - world max index: 3
+2020.03.26 05:08:23.018	deduction - scene max index: 13
+2020.03.26 05:08:23.028	deduction - me: 0, 2001797201, 288684 (valid), 6485
+2020.03.26 05:08:23.029	deduction - actor max index: 187, valid: True
+2020.03.26 05:08:23.029	deduction - acd max index: 506, valid: True
+2020.03.26 05:08:23.039	deduction - highest actor dict: *179,*2
+2020.03.26 05:08:23.039	deduction - CK#1: 2964421090
+2020.03.26 05:08:23.039	deduction - me pos: 465.68:537.56:-1.55
+2020.03.26 05:08:23.039	deduction - CK#2: 4048623136
+2020.03.26 05:08:23.039	deduction - A scene#0(30958): different area (353527), 240-360, 240-360, CK3: 1398915151, CK4: 46302350
+2020.03.26 05:08:23.039	deduction - A scene#2(30978): different area (353527), 480-600, 480-600, CK3: 1400356977, CK4: 46302350
+2020.03.26 05:08:23.039	deduction - A scene#3(30973): different area (353527), 240-360, 360-480, CK3: 1400094845, CK4: 46302350
+2020.03.26 05:08:23.039	deduction - A scene#4(30958): different area (353527), 480-600, 240-360, CK3: 1393541209, CK4: 46302350
+2020.03.26 05:08:23.039	deduction - A scene#5(30976): different area (353527), 360-480, 480-600, CK3: 1400160370, CK4: 46302350
+2020.03.26 05:08:23.039	deduction - A scene#6(30958): different area (353527), 480-600, 600-720, CK3: 1394065489, CK4: 46302350
+2020.03.26 05:08:23.039	deduction - A scene#7(30976): different area (353527), 240-360, 480-600, CK3: 1399439431, CK4: 46302350
+2020.03.26 05:08:23.039	deduction - A scene#8(30981): different area (353527), 480-600, 360-480, CK3: 1400029308, CK4: 46302350
+2020.03.26 05:08:23.039	deduction - A scene#9(30958): different area (353527), 0-120, 480-600, CK3: 1398849614, CK4: 46302350
+2020.03.26 05:08:23.039	deduction - A scene#10(30958): different area (353527), 360-480, 600-720, CK3: 1393999952, CK4: 46302350
+2020.03.26 05:08:23.039	deduction - A scene#11(30958): different area (353527), 360-480, 240-360, CK3: 1393082790, CK4: 46302350
+2020.03.26 05:08:23.039	deduction - A scene#12(30973): different area (353527), 360-480, 360-480, CK3: 1399963775, CK4: 46302350
+2020.03.26 05:08:23.039	deduction - A scene#13(30989): different area (353527), 120-240, 480-600, CK3: 1400291440, CK4: 46302350
+2020.03.26 05:08:23.039	deduction - B scene#0(30958): no overlap, 240-360, 240-360, CK3: 1398915151, CK4: 46302350
+2020.03.26 05:08:23.039	deduction - B scene#2(30978): no overlap, 480-600, 480-600, CK3: 1400356977, CK4: 46302350
+2020.03.26 05:08:23.039	deduction - B scene#3(30973): no overlap, 240-360, 360-480, CK3: 1400094845, CK4: 46302350
+2020.03.26 05:08:23.039	deduction - B scene#4(30958): no overlap, 480-600, 240-360, CK3: 1393541209, CK4: 46302350
+2020.03.26 05:08:23.042	deduction - B scene#5(30976): 80, 360-480, 480-600, CK3: 1400160370, CK4: 46302350
+2020.03.26 05:08:23.042	deduction - B scene#6(30958): no overlap, 480-600, 600-720, CK3: 1394065489, CK4: 46302350
+2020.03.26 05:08:23.042	deduction - B scene#7(30976): no overlap, 240-360, 480-600, CK3: 1399439431, CK4: 46302350
+2020.03.26 05:08:23.042	deduction - B scene#8(30981): no overlap, 480-600, 360-480, CK3: 1400029308, CK4: 46302350
+2020.03.26 05:08:23.042	deduction - B scene#9(30958): no overlap, 0-120, 480-600, CK3: 1398849614, CK4: 46302350
+2020.03.26 05:08:23.042	deduction - B scene#10(30958): no overlap, 360-480, 600-720, CK3: 1393999952, CK4: 46302350
+2020.03.26 05:08:23.042	deduction - B scene#11(30958): no overlap, 360-480, 240-360, CK3: 1393082790, CK4: 46302350
+2020.03.26 05:08:23.042	deduction - B scene#12(30973): no overlap, 360-480, 360-480, CK3: 1399963775, CK4: 46302350
+2020.03.26 05:08:23.042	deduction - B scene#13(30989): no overlap, 120-240, 480-600, CK3: 1400291440, CK4: 46302350
+2020.03.26 05:08:23.042	deduction - CK#3: 1400160370
+2020.03.26 05:08:23.042	deduction - CK#4: 46302350
+2020.03.26 05:08:23.043	scan finished in 72 ms
+2020.03.26 05:08:23.290	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 05:08:52.948	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 05:08:56.815	scan started [20.3.9.0]
+2020.03.26 05:08:56.946	header load time: 125 (25745/576667)
+2020.03.26 05:08:56.953	ObjectManager found, ingame flag: 1
+2020.03.26 05:08:56.987	CK#1 sanity check triggered
+2020.03.26 05:08:56.999	deduction - world max index: 3
+2020.03.26 05:08:56.999	deduction - scene max index: 13
+2020.03.26 05:08:57.009	deduction - me: 0, 2001797201, 288684 (valid), 6485
+2020.03.26 05:08:57.010	deduction - actor max index: 187, valid: True
+2020.03.26 05:08:57.010	deduction - acd max index: 506, valid: True
+2020.03.26 05:08:57.022	deduction - highest actor dict: *177,*3
+2020.03.26 05:08:57.022	deduction - CK#1: 2964421090
+2020.03.26 05:08:57.022	deduction - me pos: 414.06:525.81:-1.57
+2020.03.26 05:08:57.022	deduction - CK#2: 4048623136
+2020.03.26 05:08:57.022	deduction - A scene#0(30958): different area (353527), 240-360, 240-360, CK3: 1398915151, CK4: 46302350
+2020.03.26 05:08:57.022	deduction - A scene#1(30988): different area (353527), 120-240, 360-480, CK3: 1400881257, CK4: 46302350
+2020.03.26 05:08:57.022	deduction - A scene#2(30978): different area (353527), 480-600, 480-600, CK3: 1400356977, CK4: 46302350
+2020.03.26 05:08:57.022	deduction - A scene#3(30973): different area (353527), 240-360, 360-480, CK3: 1400094845, CK4: 46302350
+2020.03.26 05:08:57.022	deduction - A scene#4(30958): different area (353527), 120-240, 240-360, CK3: 1398980684, CK4: 46302350
+2020.03.26 05:08:57.022	deduction - A scene#5(30976): different area (353527), 360-480, 480-600, CK3: 1400160370, CK4: 46302350
+2020.03.26 05:08:57.022	deduction - A scene#6(30958): different area (353527), 0-120, 360-480, CK3: 1399308353, CK4: 46302350
+2020.03.26 05:08:57.022	deduction - A scene#7(30976): different area (353527), 240-360, 480-600, CK3: 1399439431, CK4: 46302350
+2020.03.26 05:08:57.022	deduction - A scene#8(30981): different area (353527), 480-600, 360-480, CK3: 1400029308, CK4: 46302350
+2020.03.26 05:08:57.022	deduction - A scene#9(30958): different area (353527), 0-120, 480-600, CK3: 1398849614, CK4: 46302350
+2020.03.26 05:08:57.022	deduction - A scene#10(30958): different area (353527), 360-480, 600-720, CK3: 1393999952, CK4: 46302350
+2020.03.26 05:08:57.022	deduction - A scene#11(30958): different area (353527), 360-480, 240-360, CK3: 1393082790, CK4: 46302350
+2020.03.26 05:08:57.022	deduction - A scene#12(30973): different area (353527), 360-480, 360-480, CK3: 1399963775, CK4: 46302350
+2020.03.26 05:08:57.022	deduction - A scene#13(30989): different area (353527), 120-240, 480-600, CK3: 1400291440, CK4: 46302350
+2020.03.26 05:08:57.022	deduction - B scene#0(30958): no overlap, 240-360, 240-360, CK3: 1398915151, CK4: 46302350
+2020.03.26 05:08:57.022	deduction - B scene#1(30988): no overlap, 120-240, 360-480, CK3: 1400881257, CK4: 46302350
+2020.03.26 05:08:57.022	deduction - B scene#2(30978): no overlap, 480-600, 480-600, CK3: 1400356977, CK4: 46302350
+2020.03.26 05:08:57.022	deduction - B scene#3(30973): no overlap, 240-360, 360-480, CK3: 1400094845, CK4: 46302350
+2020.03.26 05:08:57.022	deduction - B scene#4(30958): no overlap, 120-240, 240-360, CK3: 1398980684, CK4: 46302350
+2020.03.26 05:08:57.025	deduction - B scene#5(30976): 80, 360-480, 480-600, CK3: 1400160370, CK4: 46302350
+2020.03.26 05:08:57.025	deduction - B scene#6(30958): no overlap, 0-120, 360-480, CK3: 1399308353, CK4: 46302350
+2020.03.26 05:08:57.025	deduction - B scene#7(30976): no overlap, 240-360, 480-600, CK3: 1399439431, CK4: 46302350
+2020.03.26 05:08:57.025	deduction - B scene#8(30981): no overlap, 480-600, 360-480, CK3: 1400029308, CK4: 46302350
+2020.03.26 05:08:57.025	deduction - B scene#9(30958): no overlap, 0-120, 480-600, CK3: 1398849614, CK4: 46302350
+2020.03.26 05:08:57.025	deduction - B scene#10(30958): no overlap, 360-480, 600-720, CK3: 1393999952, CK4: 46302350
+2020.03.26 05:08:57.025	deduction - B scene#11(30958): no overlap, 360-480, 240-360, CK3: 1393082790, CK4: 46302350
+2020.03.26 05:08:57.025	deduction - B scene#12(30973): no overlap, 360-480, 360-480, CK3: 1399963775, CK4: 46302350
+2020.03.26 05:08:57.025	deduction - B scene#13(30989): no overlap, 120-240, 480-600, CK3: 1400291440, CK4: 46302350
+2020.03.26 05:08:57.025	deduction - CK#3: 1400160370
+2020.03.26 05:08:57.025	deduction - CK#4: 46302350
+2020.03.26 05:08:57.025	scan finished in 79 ms
+2020.03.26 05:08:57.294	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 05:10:18.124	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 05:10:21.744	scan started [20.3.9.0]
+2020.03.26 05:10:21.866	header load time: 117 (25709/576662)
+2020.03.26 05:10:21.872	ObjectManager found, ingame flag: 1
+2020.03.26 05:10:21.903	CK#1 sanity check triggered
+2020.03.26 05:10:21.914	deduction - world max index: 3
+2020.03.26 05:10:21.914	deduction - scene max index: 13
+2020.03.26 05:10:21.923	deduction - me: 0, 2001797201, 288684 (valid), 6485
+2020.03.26 05:10:21.924	deduction - actor max index: 187, valid: True
+2020.03.26 05:10:21.924	deduction - acd max index: 506, valid: True
+2020.03.26 05:10:21.935	deduction - highest actor dict: *178,*2
+2020.03.26 05:10:21.935	deduction - CK#1: 2964421090
+2020.03.26 05:10:21.935	deduction - me pos: 414.06:525.81:-1.57
+2020.03.26 05:10:21.935	deduction - CK#2: 4048623136
+2020.03.26 05:10:21.935	deduction - A scene#0(30958): different area (353527), 240-360, 240-360, CK3: 1398915151, CK4: 46302350
+2020.03.26 05:10:21.935	deduction - A scene#1(30988): different area (353527), 120-240, 360-480, CK3: 1400881257, CK4: 46302350
+2020.03.26 05:10:21.935	deduction - A scene#2(30978): different area (353527), 480-600, 480-600, CK3: 1400356977, CK4: 46302350
+2020.03.26 05:10:21.935	deduction - A scene#3(30973): different area (353527), 240-360, 360-480, CK3: 1400094845, CK4: 46302350
+2020.03.26 05:10:21.935	deduction - A scene#4(30958): different area (353527), 120-240, 240-360, CK3: 1398980684, CK4: 46302350
+2020.03.26 05:10:21.935	deduction - A scene#5(30976): different area (353527), 360-480, 480-600, CK3: 1400160370, CK4: 46302350
+2020.03.26 05:10:21.935	deduction - A scene#6(30958): different area (353527), 0-120, 360-480, CK3: 1399308353, CK4: 46302350
+2020.03.26 05:10:21.935	deduction - A scene#7(30976): different area (353527), 240-360, 480-600, CK3: 1399439431, CK4: 46302350
+2020.03.26 05:10:21.935	deduction - A scene#8(30981): different area (353527), 480-600, 360-480, CK3: 1400029308, CK4: 46302350
+2020.03.26 05:10:21.935	deduction - A scene#9(30958): different area (353527), 0-120, 480-600, CK3: 1398849614, CK4: 46302350
+2020.03.26 05:10:21.935	deduction - A scene#10(30958): different area (353527), 360-480, 600-720, CK3: 1393999952, CK4: 46302350
+2020.03.26 05:10:21.935	deduction - A scene#11(30958): different area (353527), 360-480, 240-360, CK3: 1393082790, CK4: 46302350
+2020.03.26 05:10:21.935	deduction - A scene#12(30973): different area (353527), 360-480, 360-480, CK3: 1399963775, CK4: 46302350
+2020.03.26 05:10:21.935	deduction - A scene#13(30989): different area (353527), 120-240, 480-600, CK3: 1400291440, CK4: 46302350
+2020.03.26 05:10:21.935	deduction - B scene#0(30958): no overlap, 240-360, 240-360, CK3: 1398915151, CK4: 46302350
+2020.03.26 05:10:21.935	deduction - B scene#1(30988): no overlap, 120-240, 360-480, CK3: 1400881257, CK4: 46302350
+2020.03.26 05:10:21.935	deduction - B scene#2(30978): no overlap, 480-600, 480-600, CK3: 1400356977, CK4: 46302350
+2020.03.26 05:10:21.935	deduction - B scene#3(30973): no overlap, 240-360, 360-480, CK3: 1400094845, CK4: 46302350
+2020.03.26 05:10:21.935	deduction - B scene#4(30958): no overlap, 120-240, 240-360, CK3: 1398980684, CK4: 46302350
+2020.03.26 05:10:21.938	deduction - B scene#5(30976): 80, 360-480, 480-600, CK3: 1400160370, CK4: 46302350
+2020.03.26 05:10:21.938	deduction - B scene#6(30958): no overlap, 0-120, 360-480, CK3: 1399308353, CK4: 46302350
+2020.03.26 05:10:21.938	deduction - B scene#7(30976): no overlap, 240-360, 480-600, CK3: 1399439431, CK4: 46302350
+2020.03.26 05:10:21.938	deduction - B scene#8(30981): no overlap, 480-600, 360-480, CK3: 1400029308, CK4: 46302350
+2020.03.26 05:10:21.938	deduction - B scene#9(30958): no overlap, 0-120, 480-600, CK3: 1398849614, CK4: 46302350
+2020.03.26 05:10:21.938	deduction - B scene#10(30958): no overlap, 360-480, 600-720, CK3: 1393999952, CK4: 46302350
+2020.03.26 05:10:21.938	deduction - B scene#11(30958): no overlap, 360-480, 240-360, CK3: 1393082790, CK4: 46302350
+2020.03.26 05:10:21.938	deduction - B scene#12(30973): no overlap, 360-480, 360-480, CK3: 1399963775, CK4: 46302350
+2020.03.26 05:10:21.938	deduction - B scene#13(30989): no overlap, 120-240, 480-600, CK3: 1400291440, CK4: 46302350
+2020.03.26 05:10:21.938	deduction - CK#3: 1400160370
+2020.03.26 05:10:21.938	deduction - CK#4: 46302350
+2020.03.26 05:10:21.938	scan finished in 72 ms
+2020.03.26 05:10:22.177	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 05:12:08.789	new area: Rift Level 02
+2020.03.26 05:12:09.621	new area: Rift Level 03
+2020.03.26 05:13:18.108	new area: Hidden Camp

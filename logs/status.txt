@@ -1,0 +1,383 @@
+﻿2020.03.26 04:33:09.498	NTP query succeeded, lag=6ms, diff=3600748ms
+2020.03.26 04:33:09.498	loading database
+2020.03.26 04:33:10.070	database loaded
+2020.03.26 04:33:10.940	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 04:33:10.947	initializing overlay
+2020.03.26 04:33:10.981		create Direct2D1 Factory
+2020.03.26 04:33:10.983		create DirectWrite Factory
+2020.03.26 04:33:10.984		create DirectInput
+2020.03.26 04:33:11.058		create DirectInput Keyboard
+2020.03.26 04:33:11.091		create SwapChain
+2020.03.26 04:33:11.128		maximum supported feature level: Level_11_0
+2020.03.26 04:33:11.149	create render target
+2020.03.26 04:33:11.151	render target created
+2020.03.26 04:33:11.180	loading configuration
+2020.03.26 04:33:11.180		config.xml
+2020.03.26 04:33:11.213	configuration loaded
+2020.03.26 04:33:11.218	loading plugins
+2020.03.26 04:33:14.393	plugins loaded
+2020.03.26 04:33:14.841	new run: Witch Doctor, Rift Level 01, Difficulty: t16
+2020.03.26 04:33:15.480	create render target
+2020.03.26 04:33:15.480	render target created
+2020.03.26 04:36:02.491	NTP query succeeded, lag=3ms, diff=3600751ms
+2020.03.26 04:36:02.491	loading database
+2020.03.26 04:36:03.068	database loaded
+2020.03.26 04:36:03.935	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 04:36:03.942	initializing overlay
+2020.03.26 04:36:03.985		create Direct2D1 Factory
+2020.03.26 04:36:03.986		create DirectWrite Factory
+2020.03.26 04:36:03.987		create DirectInput
+2020.03.26 04:36:04.060		create DirectInput Keyboard
+2020.03.26 04:36:04.098		create SwapChain
+2020.03.26 04:36:04.141		maximum supported feature level: Level_11_0
+2020.03.26 04:36:04.180	create render target
+2020.03.26 04:36:04.182	render target created
+2020.03.26 04:36:04.213	loading configuration
+2020.03.26 04:36:04.213		config.xml
+2020.03.26 04:36:04.243	configuration loaded
+2020.03.26 04:36:04.249	loading plugins
+2020.03.26 04:36:07.866	plugins loaded
+2020.03.26 04:36:08.415	new run: Witch Doctor, Rift Level 01, Difficulty: t16
+2020.03.26 04:36:08.629	create render target
+2020.03.26 04:36:08.630	render target created
+2020.03.26 04:38:12.283	NTP query succeeded, lag=2ms, diff=3600751ms
+2020.03.26 04:38:12.283	loading database
+2020.03.26 04:38:12.857	database loaded
+2020.03.26 04:38:13.802	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 04:38:13.810	initializing overlay
+2020.03.26 04:38:13.868		create Direct2D1 Factory
+2020.03.26 04:38:13.871		create DirectWrite Factory
+2020.03.26 04:38:13.872		create DirectInput
+2020.03.26 04:38:13.946		create DirectInput Keyboard
+2020.03.26 04:38:13.982		create SwapChain
+2020.03.26 04:38:14.018		maximum supported feature level: Level_11_0
+2020.03.26 04:38:14.038	create render target
+2020.03.26 04:38:14.039	render target created
+2020.03.26 04:38:14.069	loading configuration
+2020.03.26 04:38:14.069		config.xml
+2020.03.26 04:38:14.103	configuration loaded
+2020.03.26 04:38:14.109	loading plugins
+2020.03.26 04:38:17.534	plugins loaded
+2020.03.26 04:38:18.026	new run: Witch Doctor, Rift Level 01, Difficulty: t16
+2020.03.26 04:38:18.215	create render target
+2020.03.26 04:38:18.215	render target created
+2020.03.26 04:39:54.624	NTP query succeeded, lag=16ms, diff=3600745ms
+2020.03.26 04:39:54.624	loading database
+2020.03.26 04:39:55.192	database loaded
+2020.03.26 04:39:56.140	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 04:39:56.147	initializing overlay
+2020.03.26 04:39:56.187		create Direct2D1 Factory
+2020.03.26 04:39:56.188		create DirectWrite Factory
+2020.03.26 04:39:56.189		create DirectInput
+2020.03.26 04:39:56.270		create DirectInput Keyboard
+2020.03.26 04:39:56.302		create SwapChain
+2020.03.26 04:39:56.335		maximum supported feature level: Level_11_0
+2020.03.26 04:39:56.356	create render target
+2020.03.26 04:39:56.358	render target created
+2020.03.26 04:39:56.382	loading configuration
+2020.03.26 04:39:56.382		config.xml
+2020.03.26 04:39:56.413	configuration loaded
+2020.03.26 04:39:56.418	loading plugins
+2020.03.26 04:39:59.836	plugins loaded
+2020.03.26 04:40:00.273	new run: Witch Doctor, Rift Level 01, Difficulty: t16
+2020.03.26 04:40:00.626	create render target
+2020.03.26 04:40:00.627	render target created
+2020.03.26 04:41:51.861	new area: Rift Level 01
+2020.03.26 04:41:52.098	new area: Rift Level 02
+2020.03.26 04:43:51.095	NTP query succeeded, lag=8ms, diff=3600747ms
+2020.03.26 04:43:51.095	loading database
+2020.03.26 04:43:51.679	database loaded
+2020.03.26 04:43:52.665	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 04:43:52.673	initializing overlay
+2020.03.26 04:43:52.724		create Direct2D1 Factory
+2020.03.26 04:43:52.726		create DirectWrite Factory
+2020.03.26 04:43:52.727		create DirectInput
+2020.03.26 04:43:52.799		create DirectInput Keyboard
+2020.03.26 04:43:52.837		create SwapChain
+2020.03.26 04:43:52.871		maximum supported feature level: Level_11_0
+2020.03.26 04:43:52.896	create render target
+2020.03.26 04:43:52.897	render target created
+2020.03.26 04:43:52.929	loading configuration
+2020.03.26 04:43:52.929		config.xml
+2020.03.26 04:43:52.963	configuration loaded
+2020.03.26 04:43:52.969	loading plugins
+2020.03.26 04:43:56.622	plugins loaded
+2020.03.26 04:43:57.174	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 04:43:57.389	create render target
+2020.03.26 04:43:57.392	render target created
+2020.03.26 04:50:58.683	NTP query succeeded, lag=7ms, diff=3600750ms
+2020.03.26 04:50:58.683	loading database
+2020.03.26 04:50:59.259	database loaded
+2020.03.26 04:51:00.264	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 04:51:00.274	initializing overlay
+2020.03.26 04:51:00.335		create Direct2D1 Factory
+2020.03.26 04:51:00.337		create DirectWrite Factory
+2020.03.26 04:51:00.338		create DirectInput
+2020.03.26 04:51:00.411		create DirectInput Keyboard
+2020.03.26 04:51:00.446		create SwapChain
+2020.03.26 04:51:00.479		maximum supported feature level: Level_11_0
+2020.03.26 04:51:00.500	create render target
+2020.03.26 04:51:00.502	render target created
+2020.03.26 04:51:00.527	loading configuration
+2020.03.26 04:51:00.527		config.xml
+2020.03.26 04:51:00.561	configuration loaded
+2020.03.26 04:51:00.568	loading plugins
+2020.03.26 04:51:04.279	plugins loaded
+2020.03.26 04:51:04.840	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 04:51:05.147	create render target
+2020.03.26 04:51:05.148	render target created
+2020.03.26 04:52:57.844	NTP query succeeded, lag=3ms, diff=3600752ms
+2020.03.26 04:52:57.844	loading database
+2020.03.26 04:52:58.495	database loaded
+2020.03.26 04:52:59.445	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 04:52:59.452	initializing overlay
+2020.03.26 04:52:59.488		create Direct2D1 Factory
+2020.03.26 04:52:59.490		create DirectWrite Factory
+2020.03.26 04:52:59.491		create DirectInput
+2020.03.26 04:52:59.570		create DirectInput Keyboard
+2020.03.26 04:52:59.607		create SwapChain
+2020.03.26 04:52:59.643		maximum supported feature level: Level_11_0
+2020.03.26 04:52:59.664	create render target
+2020.03.26 04:52:59.666	render target created
+2020.03.26 04:52:59.693	loading configuration
+2020.03.26 04:52:59.693		config.xml
+2020.03.26 04:52:59.723	configuration loaded
+2020.03.26 04:52:59.728	loading plugins
+2020.03.26 04:53:03.048	plugins loaded
+2020.03.26 04:53:03.548	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 04:53:03.898	create render target
+2020.03.26 04:53:03.898	render target created
+2020.03.26 04:53:50.658	NTP query succeeded, lag=7ms, diff=3600751ms
+2020.03.26 04:53:50.658	loading database
+2020.03.26 04:53:51.239	database loaded
+2020.03.26 04:53:52.222	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 04:53:52.229	initializing overlay
+2020.03.26 04:53:52.297		create Direct2D1 Factory
+2020.03.26 04:53:52.299		create DirectWrite Factory
+2020.03.26 04:53:52.300		create DirectInput
+2020.03.26 04:53:52.372		create DirectInput Keyboard
+2020.03.26 04:53:52.407		create SwapChain
+2020.03.26 04:53:52.439		maximum supported feature level: Level_11_0
+2020.03.26 04:53:52.462	create render target
+2020.03.26 04:53:52.463	render target created
+2020.03.26 04:53:52.492	loading configuration
+2020.03.26 04:53:52.492		config.xml
+2020.03.26 04:53:52.521	configuration loaded
+2020.03.26 04:53:52.527	loading plugins
+2020.03.26 04:53:55.990	plugins loaded
+2020.03.26 04:53:56.548	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 04:53:56.756	create render target
+2020.03.26 04:53:56.756	render target created
+2020.03.26 04:55:10.686	NTP query succeeded, lag=6ms, diff=3600751ms
+2020.03.26 04:55:10.686	loading database
+2020.03.26 04:55:11.264	database loaded
+2020.03.26 04:55:12.246	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 04:55:12.253	initializing overlay
+2020.03.26 04:55:12.292		create Direct2D1 Factory
+2020.03.26 04:55:12.294		create DirectWrite Factory
+2020.03.26 04:55:12.295		create DirectInput
+2020.03.26 04:55:12.373		create DirectInput Keyboard
+2020.03.26 04:55:12.409		create SwapChain
+2020.03.26 04:55:12.442		maximum supported feature level: Level_11_0
+2020.03.26 04:55:12.463	create render target
+2020.03.26 04:55:12.464	render target created
+2020.03.26 04:55:12.493	loading configuration
+2020.03.26 04:55:12.493		config.xml
+2020.03.26 04:55:12.523	configuration loaded
+2020.03.26 04:55:12.528	loading plugins
+2020.03.26 04:55:16.132	plugins loaded
+2020.03.26 04:55:16.682	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 04:55:16.986	create render target
+2020.03.26 04:55:16.986	render target created
+2020.03.26 04:56:33.404	NTP query succeeded, lag=7ms, diff=3600751ms
+2020.03.26 04:56:33.405	loading database
+2020.03.26 04:56:33.963	database loaded
+2020.03.26 04:56:34.850	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 04:56:34.857	initializing overlay
+2020.03.26 04:56:34.914		create Direct2D1 Factory
+2020.03.26 04:56:34.916		create DirectWrite Factory
+2020.03.26 04:56:34.917		create DirectInput
+2020.03.26 04:56:34.990		create DirectInput Keyboard
+2020.03.26 04:56:35.029		create SwapChain
+2020.03.26 04:56:35.065		maximum supported feature level: Level_11_0
+2020.03.26 04:56:35.087	create render target
+2020.03.26 04:56:35.088	render target created
+2020.03.26 04:56:35.115	loading configuration
+2020.03.26 04:56:35.115		config.xml
+2020.03.26 04:56:35.145	configuration loaded
+2020.03.26 04:56:35.151	loading plugins
+2020.03.26 04:56:38.745	plugins loaded
+2020.03.26 04:56:39.298	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 04:56:39.500	create render target
+2020.03.26 04:56:39.501	render target created
+2020.03.26 04:58:22.356	NTP query succeeded, lag=2ms, diff=3600754ms
+2020.03.26 04:58:22.356	loading database
+2020.03.26 04:58:22.931	database loaded
+2020.03.26 04:58:23.902	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 04:58:23.909	initializing overlay
+2020.03.26 04:58:23.948		create Direct2D1 Factory
+2020.03.26 04:58:23.949		create DirectWrite Factory
+2020.03.26 04:58:23.950		create DirectInput
+2020.03.26 04:58:24.027		create DirectInput Keyboard
+2020.03.26 04:58:24.064		create SwapChain
+2020.03.26 04:58:24.099		maximum supported feature level: Level_11_0
+2020.03.26 04:58:24.123	create render target
+2020.03.26 04:58:24.125	render target created
+2020.03.26 04:58:24.153	loading configuration
+2020.03.26 04:58:24.153		config.xml
+2020.03.26 04:58:24.182	configuration loaded
+2020.03.26 04:58:24.188	loading plugins
+2020.03.26 04:58:27.579	plugins loaded
+2020.03.26 04:58:28.078	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 04:58:28.328	create render target
+2020.03.26 04:58:28.330	render target created
+2020.03.26 05:03:29.971	NTP query succeeded, lag=13ms, diff=3600748ms
+2020.03.26 05:03:29.971	loading database
+2020.03.26 05:03:30.562	database loaded
+2020.03.26 05:03:31.517	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 05:03:31.526	initializing overlay
+2020.03.26 05:03:31.582		create Direct2D1 Factory
+2020.03.26 05:03:31.584		create DirectWrite Factory
+2020.03.26 05:03:31.585		create DirectInput
+2020.03.26 05:03:31.658		create DirectInput Keyboard
+2020.03.26 05:03:31.696		create SwapChain
+2020.03.26 05:03:31.737		maximum supported feature level: Level_11_0
+2020.03.26 05:03:31.770	create render target
+2020.03.26 05:03:31.772	render target created
+2020.03.26 05:03:31.799	loading configuration
+2020.03.26 05:03:31.799		config.xml
+2020.03.26 05:03:31.831	configuration loaded
+2020.03.26 05:03:31.837	loading plugins
+2020.03.26 05:03:35.374	plugins loaded
+2020.03.26 05:03:35.969	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 05:03:36.295	create render target
+2020.03.26 05:03:36.297	render target created
+2020.03.26 05:05:00.453	NTP query succeeded, lag=6ms, diff=3600750ms
+2020.03.26 05:05:00.454	loading database
+2020.03.26 05:05:01.090	database loaded
+2020.03.26 05:05:02.027	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 05:05:02.035	initializing overlay
+2020.03.26 05:05:02.073		create Direct2D1 Factory
+2020.03.26 05:05:02.075		create DirectWrite Factory
+2020.03.26 05:05:02.076		create DirectInput
+2020.03.26 05:05:02.148		create DirectInput Keyboard
+2020.03.26 05:05:02.184		create SwapChain
+2020.03.26 05:05:02.218		maximum supported feature level: Level_11_0
+2020.03.26 05:05:02.239	create render target
+2020.03.26 05:05:02.241	render target created
+2020.03.26 05:05:02.270	loading configuration
+2020.03.26 05:05:02.270		config.xml
+2020.03.26 05:05:02.301	configuration loaded
+2020.03.26 05:05:02.307	loading plugins
+2020.03.26 05:05:05.979	plugins loaded
+2020.03.26 05:05:06.474	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 05:05:12.003	create render target
+2020.03.26 05:05:12.004	render target created
+2020.03.26 05:06:58.738	NTP query succeeded, lag=6ms, diff=3600750ms
+2020.03.26 05:06:58.738	loading database
+2020.03.26 05:06:59.337	database loaded
+2020.03.26 05:07:00.333	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 05:07:00.340	initializing overlay
+2020.03.26 05:07:00.393		create Direct2D1 Factory
+2020.03.26 05:07:00.395		create DirectWrite Factory
+2020.03.26 05:07:00.396		create DirectInput
+2020.03.26 05:07:00.469		create DirectInput Keyboard
+2020.03.26 05:07:00.505		create SwapChain
+2020.03.26 05:07:00.540		maximum supported feature level: Level_11_0
+2020.03.26 05:07:00.576	create render target
+2020.03.26 05:07:00.578	render target created
+2020.03.26 05:07:00.605	loading configuration
+2020.03.26 05:07:00.605		config.xml
+2020.03.26 05:07:00.636	configuration loaded
+2020.03.26 05:07:00.641	loading plugins
+2020.03.26 05:07:04.292	plugins loaded
+2020.03.26 05:07:04.813	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 05:07:05.015	create render target
+2020.03.26 05:07:05.018	render target created
+2020.03.26 05:07:37.714	NTP query succeeded, lag=93ms, diff=3600709ms
+2020.03.26 05:07:37.715	loading database
+2020.03.26 05:07:38.371	database loaded
+2020.03.26 05:07:39.338	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 05:07:39.345	initializing overlay
+2020.03.26 05:07:39.386		create Direct2D1 Factory
+2020.03.26 05:07:39.388		create DirectWrite Factory
+2020.03.26 05:07:39.389		create DirectInput
+2020.03.26 05:07:39.465		create DirectInput Keyboard
+2020.03.26 05:07:39.499		create SwapChain
+2020.03.26 05:07:39.533		maximum supported feature level: Level_11_0
+2020.03.26 05:07:39.554	create render target
+2020.03.26 05:07:39.556	render target created
+2020.03.26 05:07:39.585	loading configuration
+2020.03.26 05:07:39.585		config.xml
+2020.03.26 05:07:39.615	configuration loaded
+2020.03.26 05:07:39.620	loading plugins
+2020.03.26 05:07:43.024	plugins loaded
+2020.03.26 05:07:43.473	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 05:07:43.875	create render target
+2020.03.26 05:07:43.876	render target created
+2020.03.26 05:08:17.455	NTP query succeeded, lag=92ms, diff=3600710ms
+2020.03.26 05:08:17.455	loading database
+2020.03.26 05:08:18.033	database loaded
+2020.03.26 05:08:19.050	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 05:08:19.058	initializing overlay
+2020.03.26 05:08:19.099		create Direct2D1 Factory
+2020.03.26 05:08:19.101		create DirectWrite Factory
+2020.03.26 05:08:19.102		create DirectInput
+2020.03.26 05:08:19.188		create DirectInput Keyboard
+2020.03.26 05:08:19.246		create SwapChain
+2020.03.26 05:08:19.293		maximum supported feature level: Level_11_0
+2020.03.26 05:08:19.318	create render target
+2020.03.26 05:08:19.319	render target created
+2020.03.26 05:08:19.345	loading configuration
+2020.03.26 05:08:19.345		config.xml
+2020.03.26 05:08:19.378	configuration loaded
+2020.03.26 05:08:19.383	loading plugins
+2020.03.26 05:08:22.823	plugins loaded
+2020.03.26 05:08:23.290	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 05:08:23.637	create render target
+2020.03.26 05:08:23.638	render target created
+2020.03.26 05:08:51.506	NTP query succeeded, lag=6ms, diff=3600754ms
+2020.03.26 05:08:51.506	loading database
+2020.03.26 05:08:52.070	database loaded
+2020.03.26 05:08:52.948	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 05:08:52.955	initializing overlay
+2020.03.26 05:08:53.017		create Direct2D1 Factory
+2020.03.26 05:08:53.019		create DirectWrite Factory
+2020.03.26 05:08:53.019		create DirectInput
+2020.03.26 05:08:53.093		create DirectInput Keyboard
+2020.03.26 05:08:53.137		create SwapChain
+2020.03.26 05:08:53.179		maximum supported feature level: Level_11_0
+2020.03.26 05:08:53.219	create render target
+2020.03.26 05:08:53.220	render target created
+2020.03.26 05:08:53.249	loading configuration
+2020.03.26 05:08:53.249		config.xml
+2020.03.26 05:08:53.279	configuration loaded
+2020.03.26 05:08:53.284	loading plugins
+2020.03.26 05:08:56.791	plugins loaded
+2020.03.26 05:08:57.294	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 05:08:57.485	create render target
+2020.03.26 05:08:57.487	render target created
+2020.03.26 05:10:16.662	NTP query succeeded, lag=6ms, diff=3600753ms
+2020.03.26 05:10:16.662	loading database
+2020.03.26 05:10:17.250	database loaded
+2020.03.26 05:10:18.124	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 05:10:18.131	initializing overlay
+2020.03.26 05:10:18.165		create Direct2D1 Factory
+2020.03.26 05:10:18.167		create DirectWrite Factory
+2020.03.26 05:10:18.168		create DirectInput
+2020.03.26 05:10:18.248		create DirectInput Keyboard
+2020.03.26 05:10:18.281		create SwapChain
+2020.03.26 05:10:18.314		maximum supported feature level: Level_11_0
+2020.03.26 05:10:18.334	create render target
+2020.03.26 05:10:18.336	render target created
+2020.03.26 05:10:18.363	loading configuration
+2020.03.26 05:10:18.363		config.xml
+2020.03.26 05:10:18.392	configuration loaded
+2020.03.26 05:10:18.398	loading plugins
+2020.03.26 05:10:21.722	plugins loaded
+2020.03.26 05:10:22.177	new run: Witch Doctor, Rift Level 02, Difficulty: t16
+2020.03.26 05:10:22.531	create render target
+2020.03.26 05:10:22.532	render target created
+2020.03.26 05:12:08.789	new area: Rift Level 02
+2020.03.26 05:12:09.621	new area: Rift Level 03
+2020.03.26 05:13:18.108	new area: Hidden Camp
