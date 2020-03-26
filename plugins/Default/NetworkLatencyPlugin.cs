@@ -12,7 +12,7 @@ namespace Turbo.Plugins.Default
 
         public NetworkLatencyPlugin()
         {
-            Enabled = true;
+            Enabled = false;
         }
 
         public override void Load(IController hud)

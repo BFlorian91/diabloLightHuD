@@ -150,7 +150,7 @@ namespace Turbo.Plugins.Default
                     }
 
                     if (best)
-                        info.Size *= 1.35f;
+                        info.Size *= 2.35f;
                     if (best && orderIndex > 0)
                     {
                         info.TimeLeft = ((orderIndex - 1) * 4) + _ruleCalculator.PaintInfoList[0].TimeLeft;
@@ -163,8 +163,8 @@ namespace Turbo.Plugins.Default
 
                 var portraitRect = player.PortraitUiElement.Rectangle;
 
-                var x = portraitRect.Right;
-                var y = portraitRect.Top + (portraitRect.Height * 0.51f);
+                var x = portraitRect.Right + (portraitRect.Right * 14.51f);
+                var y = portraitRect.Top + (portraitRect.Height * 3.51f);
 
                 BuffPainter.PaintHorizontal(_ruleCalculator.PaintInfoList, x, y, _ruleCalculator.StandardIconSize, 0);
             }

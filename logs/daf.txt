@@ -703,3 +703,222 @@
 2020.03.26 05:12:08.789	new area: Rift Level 02
 2020.03.26 05:12:09.621	new area: Rift Level 03
 2020.03.26 05:13:18.108	new area: Hidden Camp
+2020.03.26 05:24:34.946	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 05:24:38.892	scan started [20.3.9.0]
+2020.03.26 05:24:39.034	header load time: 137 (34402/579085)
+2020.03.26 05:24:39.041	ObjectManager found, ingame flag: 1
+2020.03.26 05:24:39.074	CK#1 sanity check triggered
+2020.03.26 05:24:39.086	deduction - world max index: 1
+2020.03.26 05:24:39.086	deduction - scene max index: 24
+2020.03.26 05:24:39.096	deduction - me: 0, 2001797201, 168314 (valid), 6485
+2020.03.26 05:24:39.097	deduction - actor max index: 151, valid: True
+2020.03.26 05:24:39.097	deduction - acd max index: 556, valid: True
+2020.03.26 05:24:39.108	deduction - highest actor dict: *85,*3
+2020.03.26 05:24:39.108	deduction - CK#1: 2964421090
+2020.03.26 05:24:39.108	deduction - me pos: 310.95:264.69:0.10
+2020.03.26 05:24:39.108	deduction - CK#2: 4048623136
+2020.03.26 05:24:39.108	deduction - A scene#9(185545): no overlap, 480-720, 240-480, CK3: 1400553588, CK4: 46302350
+2020.03.26 05:24:39.108	deduction - A scene#13(185542): no overlap, 480-720, 0-240, CK3: 1400619125, CK4: 46302350
+2020.03.26 05:24:39.112	deduction - A scene#14(161513): 72, 240 - 480, 240 - 480, CK3: 1400160370, CK4: 46302350
+2020.03.26 05:24:39.112	deduction - A scene#20(161510): no overlap, 240-480, 0-240, CK3: 1400291440, CK4: 46302350
+2020.03.26 05:24:39.112	deduction - A scene#22(161516): no overlap, 0-240, 0-240, CK3: 1400356977, CK4: 46302350
+2020.03.26 05:24:39.112	deduction - A scene#24(161507): no overlap, 0-240, 240-480, CK3: 1400225907, CK4: 46302350
+2020.03.26 05:24:39.112	deduction - CK#3: 1400160370
+2020.03.26 05:24:39.112	deduction - CK#4: 46302350
+2020.03.26 05:24:39.112	scan finished in 77 ms
+2020.03.26 05:24:39.429	new run: Witch Doctor, Hidden Camp, Difficulty: t16
+2020.03.26 05:25:58.283	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 05:26:02.058	scan started [20.3.9.0]
+2020.03.26 05:26:02.194	header load time: 131 (37848/579122)
+2020.03.26 05:26:02.201	ObjectManager found, ingame flag: 1
+2020.03.26 05:26:02.232	CK#1 sanity check triggered
+2020.03.26 05:26:02.244	deduction - world max index: 1
+2020.03.26 05:26:02.244	deduction - scene max index: 24
+2020.03.26 05:26:02.253	deduction - me: 0, 2001797201, 168314 (valid), 6485
+2020.03.26 05:26:02.253	deduction - actor max index: 151, valid: True
+2020.03.26 05:26:02.253	deduction - acd max index: 554, valid: True
+2020.03.26 05:26:02.264	deduction - highest actor dict: *90,*2
+2020.03.26 05:26:02.264	deduction - CK#1: 2964421090
+2020.03.26 05:26:02.264	deduction - me pos: 321.54:233.83:0.10
+2020.03.26 05:26:02.264	deduction - CK#2: 4048623136
+2020.03.26 05:26:02.264	deduction - A scene#9(185545): no overlap, 480-720, 240-480, CK3: 1400422518, CK4: 46302350
+2020.03.26 05:26:02.264	deduction - A scene#13(185542): no overlap, 480-720, 0-240, CK3: 1400488055, CK4: 46302350
+2020.03.26 05:26:02.264	deduction - A scene#14(161513): no overlap, 240-480, 240-480, CK3: 1400291440, CK4: 46302350
+2020.03.26 05:26:02.267	deduction - A scene#20(161510): 69, 240 - 480, 0 - 240, CK3: 1400160370, CK4: 46302350
+2020.03.26 05:26:02.267	deduction - A scene#22(161516): no overlap, 0-240, 0-240, CK3: 1400225907, CK4: 46302350
+2020.03.26 05:26:02.267	deduction - A scene#24(161507): no overlap, 0-240, 240-480, CK3: 1400356977, CK4: 46302350
+2020.03.26 05:26:02.267	deduction - CK#3: 1400160370
+2020.03.26 05:26:02.267	deduction - CK#4: 46302350
+2020.03.26 05:26:02.267	scan finished in 72 ms
+2020.03.26 05:26:02.508	new run: Witch Doctor, Hidden Camp, Difficulty: t16
+2020.03.26 05:26:52.832	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 05:26:56.503	scan started [20.3.9.0]
+2020.03.26 05:26:56.642	header load time: 135 (38221/579145)
+2020.03.26 05:26:56.649	ObjectManager found, ingame flag: 1
+2020.03.26 05:26:56.679	CK#1 sanity check triggered
+2020.03.26 05:26:56.691	deduction - world max index: 1
+2020.03.26 05:26:56.691	deduction - scene max index: 24
+2020.03.26 05:26:56.700	deduction - me: 0, 2001797201, 168314 (valid), 6485
+2020.03.26 05:26:56.701	deduction - actor max index: 149, valid: True
+2020.03.26 05:26:56.701	deduction - acd max index: 553, valid: True
+2020.03.26 05:26:56.712	deduction - highest actor dict: *92,*3
+2020.03.26 05:26:56.712	deduction - CK#1: 2964421090
+2020.03.26 05:26:56.712	deduction - me pos: 275.45:269.97:0.10
+2020.03.26 05:26:56.712	deduction - CK#2: 4048623136
+2020.03.26 05:26:56.712	deduction - A scene#9(185545): no overlap, 480-720, 240-480, CK3: 1400553588, CK4: 46302350
+2020.03.26 05:26:56.712	deduction - A scene#13(185542): no overlap, 480-720, 0-240, CK3: 1400619125, CK4: 46302350
+2020.03.26 05:26:56.715	deduction - A scene#14(161513): 68, 240 - 480, 240 - 480, CK3: 1400160370, CK4: 46302350
+2020.03.26 05:26:56.715	deduction - A scene#20(161510): no overlap, 240-480, 0-240, CK3: 1400291440, CK4: 46302350
+2020.03.26 05:26:56.715	deduction - A scene#22(161516): no overlap, 0-240, 0-240, CK3: 1400356977, CK4: 46302350
+2020.03.26 05:26:56.715	deduction - A scene#24(161507): no overlap, 0-240, 240-480, CK3: 1400225907, CK4: 46302350
+2020.03.26 05:26:56.715	deduction - CK#3: 1400160370
+2020.03.26 05:26:56.715	deduction - CK#4: 46302350
+2020.03.26 05:26:56.715	scan finished in 72 ms
+2020.03.26 05:26:57.010	new run: Witch Doctor, Hidden Camp, Difficulty: t16
+2020.03.26 05:27:15.749	new area: Hidden Camp
+2020.03.26 05:27:16.703	new area: Rift Level 01
+2020.03.26 05:27:50.160	new area: Hidden Camp
+2020.03.26 05:32:09.191	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 05:32:12.881	scan started [20.3.9.0]
+2020.03.26 05:32:13.031	header load time: 145 (46832/579245)
+2020.03.26 05:32:13.037	ObjectManager found, ingame flag: 1
+2020.03.26 05:32:13.067	CK#1 sanity check triggered
+2020.03.26 05:32:13.078	deduction - world max index: 4
+2020.03.26 05:32:13.078	deduction - scene max index: 24
+2020.03.26 05:32:13.088	deduction - me: 0, 2001797201, 168314 (valid), 6485
+2020.03.26 05:32:13.089	deduction - actor max index: 156, valid: True
+2020.03.26 05:32:13.089	deduction - acd max index: 556, valid: True
+2020.03.26 05:32:13.099	deduction - highest actor dict: *90
+2020.03.26 05:32:13.099	deduction - CK#1: 2964421090
+2020.03.26 05:32:13.099	deduction - me pos: 326.84:252.89:-0.24
+2020.03.26 05:32:13.099	deduction - CK#2: 4048623136
+2020.03.26 05:32:13.099	deduction - A scene#5(185542): no overlap, 480-720, 0-240, CK3: 1400619125, CK4: 46302350
+2020.03.26 05:32:13.099	deduction - A scene#19(161516): no overlap, 0-240, 0-240, CK3: 1400356977, CK4: 46302350
+2020.03.26 05:32:13.099	deduction - A scene#20(161507): no overlap, 0-240, 240-480, CK3: 1400225907, CK4: 46302350
+2020.03.26 05:32:13.099	deduction - A scene#21(185545): no overlap, 480-720, 240-480, CK3: 1400553588, CK4: 46302350
+2020.03.26 05:32:13.102	deduction - A scene#22(161513): 83, 240 - 480, 240 - 480, CK3: 1400160370, CK4: 46302350
+2020.03.26 05:32:13.102	deduction - A scene#24(161510): no overlap, 240-480, 0-240, CK3: 1400291440, CK4: 46302350
+2020.03.26 05:32:13.102	deduction - CK#3: 1400160370
+2020.03.26 05:32:13.102	deduction - CK#4: 46302350
+2020.03.26 05:32:13.103	scan finished in 72 ms
+2020.03.26 05:32:13.345	new run: Witch Doctor, Hidden Camp, Difficulty: t16
+2020.03.26 05:32:51.765	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 05:32:55.504	scan started [20.3.9.0]
+2020.03.26 05:32:55.645	header load time: 135 (47190/579206)
+2020.03.26 05:32:55.652	ObjectManager found, ingame flag: 1
+2020.03.26 05:32:55.681	CK#1 sanity check triggered
+2020.03.26 05:32:55.692	deduction - world max index: 4
+2020.03.26 05:32:55.692	deduction - scene max index: 24
+2020.03.26 05:32:55.702	deduction - me: 0, 2001797201, 168314 (valid), 6485
+2020.03.26 05:32:55.703	deduction - actor max index: 156, valid: True
+2020.03.26 05:32:55.703	deduction - acd max index: 556, valid: True
+2020.03.26 05:32:55.713	deduction - highest actor dict: *90
+2020.03.26 05:32:55.713	deduction - CK#1: 2964421090
+2020.03.26 05:32:55.713	deduction - me pos: 326.84:252.89:-0.24
+2020.03.26 05:32:55.713	deduction - CK#2: 4048623136
+2020.03.26 05:32:55.713	deduction - A scene#5(185542): no overlap, 480-720, 0-240, CK3: 1400619125, CK4: 46302350
+2020.03.26 05:32:55.713	deduction - A scene#19(161516): no overlap, 0-240, 0-240, CK3: 1400356977, CK4: 46302350
+2020.03.26 05:32:55.713	deduction - A scene#20(161507): no overlap, 0-240, 240-480, CK3: 1400225907, CK4: 46302350
+2020.03.26 05:32:55.713	deduction - A scene#21(185545): no overlap, 480-720, 240-480, CK3: 1400553588, CK4: 46302350
+2020.03.26 05:32:55.716	deduction - A scene#22(161513): 83, 240 - 480, 240 - 480, CK3: 1400160370, CK4: 46302350
+2020.03.26 05:32:55.716	deduction - A scene#24(161510): no overlap, 240-480, 0-240, CK3: 1400291440, CK4: 46302350
+2020.03.26 05:32:55.716	deduction - CK#3: 1400160370
+2020.03.26 05:32:55.716	deduction - CK#4: 46302350
+2020.03.26 05:32:55.717	scan finished in 71 ms
+2020.03.26 05:32:55.979	new run: Witch Doctor, Hidden Camp, Difficulty: t16
+2020.03.26 05:34:18.067	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 05:34:21.936	scan started [20.3.9.0]
+2020.03.26 05:34:22.081	header load time: 141 (47502/579237)
+2020.03.26 05:34:22.088	ObjectManager found, ingame flag: 1
+2020.03.26 05:34:22.120	CK#1 sanity check triggered
+2020.03.26 05:34:22.132	deduction - world max index: 4
+2020.03.26 05:34:22.132	deduction - scene max index: 24
+2020.03.26 05:34:22.142	deduction - me: 0, 2001797201, 168314 (valid), 6485
+2020.03.26 05:34:22.143	deduction - actor max index: 156, valid: True
+2020.03.26 05:34:22.143	deduction - acd max index: 556, valid: True
+2020.03.26 05:34:22.153	deduction - highest actor dict: *93
+2020.03.26 05:34:22.153	deduction - CK#1: 2964421090
+2020.03.26 05:34:22.153	deduction - me pos: 360.58:248.09:-0.22
+2020.03.26 05:34:22.153	deduction - CK#2: 4048623136
+2020.03.26 05:34:22.153	deduction - A scene#5(185542): no overlap, 480-720, 0-240, CK3: 1400619125, CK4: 46302350
+2020.03.26 05:34:22.153	deduction - A scene#19(161516): no overlap, 0-240, 0-240, CK3: 1400356977, CK4: 46302350
+2020.03.26 05:34:22.153	deduction - A scene#20(161507): no overlap, 0-240, 240-480, CK3: 1400225907, CK4: 46302350
+2020.03.26 05:34:22.153	deduction - A scene#21(185545): no overlap, 480-720, 240-480, CK3: 1400553588, CK4: 46302350
+2020.03.26 05:34:22.156	deduction - A scene#22(161513): 82, 240 - 480, 240 - 480, CK3: 1400160370, CK4: 46302350
+2020.03.26 05:34:22.156	deduction - A scene#24(161510): no overlap, 240-480, 0-240, CK3: 1400291440, CK4: 46302350
+2020.03.26 05:34:22.156	deduction - CK#3: 1400160370
+2020.03.26 05:34:22.156	deduction - CK#4: 46302350
+2020.03.26 05:34:22.156	scan finished in 75 ms
+2020.03.26 05:34:22.399	new run: Witch Doctor, Hidden Camp, Difficulty: t16
+2020.03.26 05:35:03.191	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 05:35:07.083	scan started [20.3.9.0]
+2020.03.26 05:35:07.245	header load time: 157 (47745/579152)
+2020.03.26 05:35:07.253	ObjectManager found, ingame flag: 1
+2020.03.26 05:35:07.285	CK#1 sanity check triggered
+2020.03.26 05:35:07.297	deduction - world max index: 4
+2020.03.26 05:35:07.297	deduction - scene max index: 24
+2020.03.26 05:35:07.308	deduction - me: 0, 2001797201, 168314 (valid), 6485
+2020.03.26 05:35:07.309	deduction - actor max index: 156, valid: True
+2020.03.26 05:35:07.309	deduction - acd max index: 556, valid: True
+2020.03.26 05:35:07.320	deduction - highest actor dict: *96
+2020.03.26 05:35:07.320	deduction - CK#1: 2964421090
+2020.03.26 05:35:07.320	deduction - me pos: 383.92:253.00:-0.32
+2020.03.26 05:35:07.320	deduction - CK#2: 4048623136
+2020.03.26 05:35:07.320	deduction - A scene#5(185542): no overlap, 480-720, 0-240, CK3: 1400619125, CK4: 46302350
+2020.03.26 05:35:07.320	deduction - A scene#19(161516): no overlap, 0-240, 0-240, CK3: 1400356977, CK4: 46302350
+2020.03.26 05:35:07.320	deduction - A scene#20(161507): no overlap, 0-240, 240-480, CK3: 1400225907, CK4: 46302350
+2020.03.26 05:35:07.320	deduction - A scene#21(185545): no overlap, 480-720, 240-480, CK3: 1400553588, CK4: 46302350
+2020.03.26 05:35:07.323	deduction - A scene#22(161513): 82, 240 - 480, 240 - 480, CK3: 1400160370, CK4: 46302350
+2020.03.26 05:35:07.323	deduction - A scene#24(161510): no overlap, 240-480, 0-240, CK3: 1400291440, CK4: 46302350
+2020.03.26 05:35:07.323	deduction - CK#3: 1400160370
+2020.03.26 05:35:07.323	deduction - CK#4: 46302350
+2020.03.26 05:35:07.323	scan finished in 77 ms
+2020.03.26 05:35:07.584	new run: Witch Doctor, Hidden Camp, Difficulty: t16
+2020.03.26 05:35:55.962	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 05:35:59.808	scan started [20.3.9.0]
+2020.03.26 05:35:59.965	header load time: 152 (48379/579246)
+2020.03.26 05:35:59.972	ObjectManager found, ingame flag: 1
+2020.03.26 05:36:00.006	CK#1 sanity check triggered
+2020.03.26 05:36:00.019	deduction - world max index: 4
+2020.03.26 05:36:00.019	deduction - scene max index: 24
+2020.03.26 05:36:00.030	deduction - me: 0, 2001797201, 168314 (valid), 6485
+2020.03.26 05:36:00.030	deduction - actor max index: 156, valid: True
+2020.03.26 05:36:00.030	deduction - acd max index: 556, valid: True
+2020.03.26 05:36:00.041	deduction - highest actor dict: *96
+2020.03.26 05:36:00.041	deduction - CK#1: 2964421090
+2020.03.26 05:36:00.041	deduction - me pos: 309.89:238.40:0.10
+2020.03.26 05:36:00.041	deduction - CK#2: 4048623136
+2020.03.26 05:36:00.041	deduction - A scene#5(185542): no overlap, 480-720, 0-240, CK3: 1400488055, CK4: 46302350
+2020.03.26 05:36:00.041	deduction - A scene#19(161516): no overlap, 0-240, 0-240, CK3: 1400225907, CK4: 46302350
+2020.03.26 05:36:00.041	deduction - A scene#20(161507): no overlap, 0-240, 240-480, CK3: 1400356977, CK4: 46302350
+2020.03.26 05:36:00.041	deduction - A scene#21(185545): no overlap, 480-720, 240-480, CK3: 1400422518, CK4: 46302350
+2020.03.26 05:36:00.041	deduction - A scene#22(161513): no overlap, 240-480, 240-480, CK3: 1400291440, CK4: 46302350
+2020.03.26 05:36:00.044	deduction - A scene#24(161510): 83, 240 - 480, 0 - 240, CK3: 1400160370, CK4: 46302350
+2020.03.26 05:36:00.045	deduction - CK#3: 1400160370
+2020.03.26 05:36:00.045	deduction - CK#4: 46302350
+2020.03.26 05:36:00.045	scan finished in 79 ms
+2020.03.26 05:36:00.314	new run: Witch Doctor, Hidden Camp, Difficulty: t16
+2020.03.26 05:36:27.272	new context [20.3.9.0] [Microsoft Windows NT 6.2.9200.0 / Windows 8]
+2020.03.26 05:36:30.994	scan started [20.3.9.0]
+2020.03.26 05:36:31.133	header load time: 134 (48328/579246)
+2020.03.26 05:36:31.140	ObjectManager found, ingame flag: 1
+2020.03.26 05:36:31.169	CK#1 sanity check triggered
+2020.03.26 05:36:31.180	deduction - world max index: 4
+2020.03.26 05:36:31.181	deduction - scene max index: 24
+2020.03.26 05:36:31.190	deduction - me: 0, 2001797201, 168314 (valid), 6485
+2020.03.26 05:36:31.191	deduction - actor max index: 156, valid: True
+2020.03.26 05:36:31.191	deduction - acd max index: 556, valid: True
+2020.03.26 05:36:31.201	deduction - highest actor dict: *98,*2
+2020.03.26 05:36:31.201	deduction - CK#1: 2964421090
+2020.03.26 05:36:31.201	deduction - me pos: 309.40:234.33:0.10
+2020.03.26 05:36:31.201	deduction - CK#2: 4048623136
+2020.03.26 05:36:31.201	deduction - A scene#5(185542): no overlap, 480-720, 0-240, CK3: 1400488055, CK4: 46302350
+2020.03.26 05:36:31.201	deduction - A scene#19(161516): no overlap, 0-240, 0-240, CK3: 1400225907, CK4: 46302350
+2020.03.26 05:36:31.201	deduction - A scene#20(161507): no overlap, 0-240, 240-480, CK3: 1400356977, CK4: 46302350
+2020.03.26 05:36:31.201	deduction - A scene#21(185545): no overlap, 480-720, 240-480, CK3: 1400422518, CK4: 46302350
+2020.03.26 05:36:31.201	deduction - A scene#22(161513): no overlap, 240-480, 240-480, CK3: 1400291440, CK4: 46302350
+2020.03.26 05:36:31.204	deduction - A scene#24(161510): 83, 240 - 480, 0 - 240, CK3: 1400160370, CK4: 46302350
+2020.03.26 05:36:31.204	deduction - CK#3: 1400160370
+2020.03.26 05:36:31.204	deduction - CK#4: 46302350
+2020.03.26 05:36:31.205	scan finished in 71 ms
+2020.03.26 05:36:31.446	new run: Witch Doctor, Hidden Camp, Difficulty: t16
