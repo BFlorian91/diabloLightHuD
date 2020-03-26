@@ -4,7 +4,7 @@
     {
         public InventoryKanaiCubedItemsPlugin()
         {
-            Enabled = false;
+            Enabled = true;
         }
 
         public void PaintTopInGame(ClipState clipState)

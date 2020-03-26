@@ -34,7 +34,7 @@ namespace Turbo.Plugins.Default
 
         public InventoryAndStashPlugin()
         {
-            Enabled = false;
+            Enabled = true;
         }
 
         public override void Load(IController hud)
@@ -188,60 +188,9 @@ namespace Turbo.Plugins.Default
             }
         }
 
-        private void DrawItemNotGood(IItem item, System.Drawing.RectangleF rect)
-        {
-            if (!NotGoodDisplayEnabled && !DefinitelyBadDisplayEnabled)
-                return;
-            if ((item.Location != ItemLocation.Inventory) && (item.Location != ItemLocation.Stash))
-                return;
+        private void DrawItemNotGood(IItem item, System.Drawing.RectangleF rect) { }
 
-            var locked = item.IsInventoryLocked;
-            if (!locked && !item.Unidentified && (item.KeepDecision != ItemKeepDecision.LooksGood))
-            {
-                if (NotGoodDisplayEnabled)
-                {
-                    DarkenBrush.DrawRectangle(rect.X, rect.Y, rect.Width, rect.Height);
-                }
-
-                if (DefinitelyBadDisplayEnabled && item.KeepDecision == ItemKeepDecision.DefinitelyBad)
-                {
-                    Hud.Render.TurnOnAliasing();
-                    try
-                    {
-                        ShadowBrush.DrawLine((float)Math.Round(rect.X + (rv / 10.0f)) - 2, (float)Math.Round(rect.Y + (rv / 10.0f)) + 2, (float)Math.Round(rect.X + (rv / 3.0f)) + 1, (float)Math.Round(rect.Y + (rv / 10.0f)) + 2, 2);
-                        ShadowBrush.DrawLine((float)Math.Round(rect.X + (rv / 10.0f)), (float)Math.Round(rect.Y + (rv / 10.0f)) + 2 - 2, (float)Math.Round(rect.X + (rv / 10.0f)), (float)Math.Round(rect.Y + (rv / 3.0f)) + 2 + 1, 2);
-                        ForceSellBrush.DrawLine((float)Math.Round(rect.X + (rv / 10.0f)) - 1, (float)Math.Round(rect.Y + (rv / 10.0f)) + 2, (float)Math.Round(rect.X + (rv / 3.0f)), (float)Math.Round(rect.Y + (rv / 10.0f)) + 2);
-                        ForceSellBrush.DrawLine((float)Math.Round(rect.X + (rv / 10.0f)), (float)Math.Round(rect.Y + (rv / 10.0f)) + 2 - 1, (float)Math.Round(rect.X + (rv / 10.0f)), (float)Math.Round(rect.Y + (rv / 3.0f)) + 2);
-                    }
-                    finally
-                    {
-                        Hud.Render.TurnOffAliasing();
-                    }
-                }
-            }
-        }
-
-        private void DrawItemCanCubed(IItem item, System.Drawing.RectangleF rect)
-        {
-            if (!CanCubedEnabled)
-                return;
-            if ((item.Location != ItemLocation.Inventory) && (item.Location != ItemLocation.Stash))
-                return;
-            var allowCube = item.SnoItem.CanKanaiCube && !Hud.Game.Me.IsCubed(item.SnoItem);
-            if (allowCube && !item.IsInventoryLocked)
-            {
-                var cubeTexture = Hud.Texture.KanaiCubeTexture;
-                var h = cubeTexture.Height * 0.6f / 1200.0f * Hud.Window.Size.Height;
-                var rh = h;
-                var mod = _watch.ElapsedMilliseconds % 1000;
-                var ratio = 0.8f + (1.2f / 1000.0f * (mod < 500 ? mod : 1000 - mod));
-                rh *= ratio;
-
-                var x = rect.Right - (h * 0.80f) - ((rh - h) / 2);
-                var y = rect.Top - (h * 0.20f) - ((rh - h) / 2);
-                cubeTexture.Draw(x, y, rh, rh, 1);
-            }
-        }
+        private void DrawItemCanCubed(IItem item, System.Drawing.RectangleF rect) { }
 
         private void DrawItemHoradricCache(IItem item, System.Drawing.RectangleF rect)
         {

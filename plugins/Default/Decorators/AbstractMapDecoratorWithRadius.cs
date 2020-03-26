@@ -11,7 +11,7 @@
 
         protected AbstractMapDecoratorWithRadius(IController hud)
         {
-            Enabled = false;
+            Enabled = true;
             Hud = hud;
         }
 

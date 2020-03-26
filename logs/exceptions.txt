@@ -1,0 +1,2 @@
+﻿2020.03.26 18:17:03.009	20.3.9.0	namespace mismatch in plugin file: 'C:\Users\florian\Downloads\TurboHUD_Light_Op\Plugins\Default\Players\SpiritBarragePhantasmPlugin.cs': namespace should be this: 'Turbo.Plugins.Default
+2020.03.26 18:42:52.921	20.3.9.0	namespace mismatch in plugin file: 'C:\Users\florian\Downloads\TurboHUD_Light_Op\Plugins\User\SpiritBarragePhantasmPlugin.cs': namespace should be this: 'Turbo.Plugins.User

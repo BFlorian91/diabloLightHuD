@@ -9,7 +9,7 @@ namespace Turbo.Plugins.Default
 
         public DangerousMonsterPlugin()
         {
-            Enabled = false;
+            Enabled = true;
         }
 
         public override void Load(IController hud)

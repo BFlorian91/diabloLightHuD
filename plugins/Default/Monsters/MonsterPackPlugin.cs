@@ -34,7 +34,7 @@ namespace Turbo.Plugins.Default
 
         public MonsterPackPlugin()
         {
-            Enabled = false;
+            Enabled = true;
             Order = 20000;
         }
 
